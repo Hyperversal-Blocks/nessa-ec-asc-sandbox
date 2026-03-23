@@ -59,7 +59,7 @@ docs/
 - rejected: `6`
 - expected denials: `6`
 - focused proofs: `100`
-- benchmark rows: `0`
+- benchmark rows: `13`
 
 ## Use-case metadata
 
@@ -75,6 +75,6 @@ docs/
 
 ## Determinism
 
-- deterministic mode: `False`
-- benchmark enabled: `False`
+- deterministic mode: `True`
+- benchmark enabled: `True`
 - Re-run the one-command bundle generator to refresh every generated file in this docs tree.

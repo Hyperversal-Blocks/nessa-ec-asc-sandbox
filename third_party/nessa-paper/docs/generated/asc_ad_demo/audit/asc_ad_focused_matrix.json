@@ -10,7 +10,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-0",
-    "verify_ms": 5.600575001153629,
+    "verify_ms": 5.3836869992665015,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -24,7 +24,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-0",
-    "verify_ms": 6.119452002167236,
+    "verify_ms": 5.508219001058023,
     "weight_profile": "local_business"
   },
   {
@@ -38,7 +38,7 @@
     "row_count": 16,
     "segment": "premium",
     "user": "user://premium-0",
-    "verify_ms": 5.7251370017183945,
+    "verify_ms": 5.711042002076283,
     "weight_profile": "broad_reach"
   },
   {
@@ -52,7 +52,7 @@
     "row_count": 14,
     "segment": "premium",
     "user": "user://premium-0",
-    "verify_ms": 5.474803001561668,
+    "verify_ms": 5.470452000736259,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -66,7 +66,7 @@
     "row_count": 12,
     "segment": "premium",
     "user": "user://premium-0",
-    "verify_ms": 5.646599005558528,
+    "verify_ms": 5.450964003102854,
     "weight_profile": "consent_gated"
   },
   {
@@ -80,7 +80,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-1",
-    "verify_ms": 5.831490001583006,
+    "verify_ms": 5.326357000740245,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -94,7 +94,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-1",
-    "verify_ms": 5.790219998743851,
+    "verify_ms": 5.6690579949645326,
     "weight_profile": "local_business"
   },
   {
@@ -108,7 +108,7 @@
     "row_count": 16,
     "segment": "premium",
     "user": "user://premium-1",
-    "verify_ms": 5.729042997700162,
+    "verify_ms": 5.921670999669004,
     "weight_profile": "broad_reach"
   },
   {
@@ -122,7 +122,7 @@
     "row_count": 14,
     "segment": "premium",
     "user": "user://premium-1",
-    "verify_ms": 5.591285000264179,
+    "verify_ms": 6.524341995827854,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -136,7 +136,7 @@
     "row_count": 12,
     "segment": "premium",
     "user": "user://premium-1",
-    "verify_ms": 5.336882997653447,
+    "verify_ms": 5.296831004670821,
     "weight_profile": "consent_gated"
   },
   {
@@ -150,7 +150,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-2",
-    "verify_ms": 5.410211997514125,
+    "verify_ms": 7.986609998624772,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -164,7 +164,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-2",
-    "verify_ms": 5.551930000365246,
+    "verify_ms": 5.673647006915417,
     "weight_profile": "local_business"
   },
   {
@@ -178,7 +178,7 @@
     "row_count": 16,
     "segment": "premium",
     "user": "user://premium-2",
-    "verify_ms": 5.543253995710984,
+    "verify_ms": 5.856078001670539,
     "weight_profile": "broad_reach"
   },
   {
@@ -192,7 +192,7 @@
     "row_count": 14,
     "segment": "premium",
     "user": "user://premium-2",
-    "verify_ms": 5.765438996604644,
+    "verify_ms": 5.479158004163764,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -206,7 +206,7 @@
     "row_count": 12,
     "segment": "premium",
     "user": "user://premium-2",
-    "verify_ms": 5.314392998116091,
+    "verify_ms": 8.144466002704576,
     "weight_profile": "consent_gated"
   },
   {
@@ -220,7 +220,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-3",
-    "verify_ms": 5.443729998660274,
+    "verify_ms": 5.397480999818072,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -234,7 +234,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-3",
-    "verify_ms": 5.337196998880245,
+    "verify_ms": 5.7618669961811975,
     "weight_profile": "local_business"
   },
   {
@@ -248,7 +248,7 @@
     "row_count": 16,
     "segment": "premium",
     "user": "user://premium-3",
-    "verify_ms": 6.122124003013596,
+    "verify_ms": 6.006491996231489,
     "weight_profile": "broad_reach"
   },
   {
@@ -262,7 +262,7 @@
     "row_count": 14,
     "segment": "premium",
     "user": "user://premium-3",
-    "verify_ms": 5.586544000834692,
+    "verify_ms": 5.562717000429984,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -276,7 +276,7 @@
     "row_count": 12,
     "segment": "premium",
     "user": "user://premium-3",
-    "verify_ms": 5.809322996356059,
+    "verify_ms": 5.281779005599674,
     "weight_profile": "consent_gated"
   },
   {
@@ -290,7 +290,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-4",
-    "verify_ms": 5.286393999995198,
+    "verify_ms": 5.510254006367177,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -304,7 +304,7 @@
     "row_count": 13,
     "segment": "premium",
     "user": "user://premium-4",
-    "verify_ms": 5.2972859994042665,
+    "verify_ms": 5.385033000493422,
     "weight_profile": "local_business"
   },
   {
@@ -318,7 +318,7 @@
     "row_count": 16,
     "segment": "premium",
     "user": "user://premium-4",
-    "verify_ms": 5.521184000826906,
+    "verify_ms": 5.688934004865587,
     "weight_profile": "broad_reach"
   },
   {
@@ -332,7 +332,7 @@
     "row_count": 14,
     "segment": "premium",
     "user": "user://premium-4",
-    "verify_ms": 5.433266996988095,
+    "verify_ms": 5.5661310034338385,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -346,7 +346,7 @@
     "row_count": 12,
     "segment": "premium",
     "user": "user://premium-4",
-    "verify_ms": 5.223754000326153,
+    "verify_ms": 6.76541499706218,
     "weight_profile": "consent_gated"
   },
   {
@@ -360,7 +360,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-0",
-    "verify_ms": 5.315733003953937,
+    "verify_ms": 5.687310003850143,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -374,7 +374,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-0",
-    "verify_ms": 5.323892000888009,
+    "verify_ms": 9.654585002863314,
     "weight_profile": "local_business"
   },
   {
@@ -388,7 +388,7 @@
     "row_count": 16,
     "segment": "local",
     "user": "user://local-0",
-    "verify_ms": 5.51916199765401,
+    "verify_ms": 5.794921002234332,
     "weight_profile": "broad_reach"
   },
   {
@@ -402,7 +402,7 @@
     "row_count": 14,
     "segment": "local",
     "user": "user://local-0",
-    "verify_ms": 5.432016005215701,
+    "verify_ms": 5.450393997307401,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -416,7 +416,7 @@
     "row_count": 12,
     "segment": "local",
     "user": "user://local-0",
-    "verify_ms": 5.240524005785119,
+    "verify_ms": 5.302161996951327,
     "weight_profile": "consent_gated"
   },
   {
@@ -430,7 +430,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-1",
-    "verify_ms": 5.706701995222829,
+    "verify_ms": 5.4917489978834055,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -444,7 +444,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-1",
-    "verify_ms": 5.298924996168353,
+    "verify_ms": 5.821345002914313,
     "weight_profile": "local_business"
   },
   {
@@ -458,7 +458,7 @@
     "row_count": 16,
     "segment": "local",
     "user": "user://local-1",
-    "verify_ms": 5.583498001215048,
+    "verify_ms": 5.596107002929784,
     "weight_profile": "broad_reach"
   },
   {
@@ -472,7 +472,7 @@
     "row_count": 14,
     "segment": "local",
     "user": "user://local-1",
-    "verify_ms": 5.3719819989055395,
+    "verify_ms": 5.431983998278156,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -486,7 +486,7 @@
     "row_count": 12,
     "segment": "local",
     "user": "user://local-1",
-    "verify_ms": 5.243045001407154,
+    "verify_ms": 5.415291998360772,
     "weight_profile": "consent_gated"
   },
   {
@@ -500,7 +500,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-2",
-    "verify_ms": 5.269942004815675,
+    "verify_ms": 5.352159998437855,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -514,7 +514,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-2",
-    "verify_ms": 5.404388997703791,
+    "verify_ms": 5.4215860000113025,
     "weight_profile": "local_business"
   },
   {
@@ -528,7 +528,7 @@
     "row_count": 16,
     "segment": "local",
     "user": "user://local-2",
-    "verify_ms": 6.115156000305433,
+    "verify_ms": 5.992391001200303,
     "weight_profile": "broad_reach"
   },
   {
@@ -542,7 +542,7 @@
     "row_count": 14,
     "segment": "local",
     "user": "user://local-2",
-    "verify_ms": 5.716316001780797,
+    "verify_ms": 5.509021000762004,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -556,7 +556,7 @@
     "row_count": 12,
     "segment": "local",
     "user": "user://local-2",
-    "verify_ms": 5.813317002321128,
+    "verify_ms": 5.462372995680198,
     "weight_profile": "consent_gated"
   },
   {
@@ -570,7 +570,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-3",
-    "verify_ms": 5.40059099876089,
+    "verify_ms": 5.722360001527704,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -584,7 +584,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-3",
-    "verify_ms": 5.574194001383148,
+    "verify_ms": 5.565962994296569,
     "weight_profile": "local_business"
   },
   {
@@ -598,7 +598,7 @@
     "row_count": 16,
     "segment": "local",
     "user": "user://local-3",
-    "verify_ms": 5.601354001555592,
+    "verify_ms": 5.855379997228738,
     "weight_profile": "broad_reach"
   },
   {
@@ -612,7 +612,7 @@
     "row_count": 14,
     "segment": "local",
     "user": "user://local-3",
-    "verify_ms": 5.831506998219993,
+    "verify_ms": 5.390077996707987,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -626,7 +626,7 @@
     "row_count": 12,
     "segment": "local",
     "user": "user://local-3",
-    "verify_ms": 5.233104995568283,
+    "verify_ms": 5.732947000069544,
     "weight_profile": "consent_gated"
   },
   {
@@ -640,7 +640,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-4",
-    "verify_ms": 5.350240004190709,
+    "verify_ms": 5.320625998137984,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -654,7 +654,7 @@
     "row_count": 13,
     "segment": "local",
     "user": "user://local-4",
-    "verify_ms": 5.346453996025957,
+    "verify_ms": 5.913620007049758,
     "weight_profile": "local_business"
   },
   {
@@ -668,7 +668,7 @@
     "row_count": 16,
     "segment": "local",
     "user": "user://local-4",
-    "verify_ms": 5.5768169986549765,
+    "verify_ms": 5.56287699873792,
     "weight_profile": "broad_reach"
   },
   {
@@ -682,7 +682,7 @@
     "row_count": 14,
     "segment": "local",
     "user": "user://local-4",
-    "verify_ms": 5.448625001008622,
+    "verify_ms": 5.397389999416191,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -696,7 +696,7 @@
     "row_count": 12,
     "segment": "local",
     "user": "user://local-4",
-    "verify_ms": 5.2641479996964335,
+    "verify_ms": 5.695410996850114,
     "weight_profile": "consent_gated"
   },
   {
@@ -710,7 +710,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-0",
-    "verify_ms": 5.394159001298249,
+    "verify_ms": 5.368787999032065,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -724,7 +724,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-0",
-    "verify_ms": 5.452452001918573,
+    "verify_ms": 5.501692998223007,
     "weight_profile": "local_business"
   },
   {
@@ -738,7 +738,7 @@
     "row_count": 16,
     "segment": "broad",
     "user": "user://broad-0",
-    "verify_ms": 5.663728996296413,
+    "verify_ms": 5.536188997211866,
     "weight_profile": "broad_reach"
   },
   {
@@ -752,7 +752,7 @@
     "row_count": 14,
     "segment": "broad",
     "user": "user://broad-0",
-    "verify_ms": 6.1039979991619475,
+    "verify_ms": 5.440770000859629,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -766,7 +766,7 @@
     "row_count": 12,
     "segment": "broad",
     "user": "user://broad-0",
-    "verify_ms": 5.233208001300227,
+    "verify_ms": 5.284637001750525,
     "weight_profile": "consent_gated"
   },
   {
@@ -780,7 +780,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-1",
-    "verify_ms": 5.401757996878587,
+    "verify_ms": 5.371583996748086,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -794,7 +794,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-1",
-    "verify_ms": 5.380747003073338,
+    "verify_ms": 6.150077999336645,
     "weight_profile": "local_business"
   },
   {
@@ -808,7 +808,7 @@
     "row_count": 16,
     "segment": "broad",
     "user": "user://broad-1",
-    "verify_ms": 5.854584000189789,
+    "verify_ms": 5.592004999925848,
     "weight_profile": "broad_reach"
   },
   {
@@ -822,7 +822,7 @@
     "row_count": 14,
     "segment": "broad",
     "user": "user://broad-1",
-    "verify_ms": 5.5071070019039325,
+    "verify_ms": 5.659827998897526,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -836,7 +836,7 @@
     "row_count": 12,
     "segment": "broad",
     "user": "user://broad-1",
-    "verify_ms": 5.332048000127543,
+    "verify_ms": 5.3046079992782325,
     "weight_profile": "consent_gated"
   },
   {
@@ -850,7 +850,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-2",
-    "verify_ms": 6.220007999218069,
+    "verify_ms": 6.429012995795347,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -864,7 +864,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-2",
-    "verify_ms": 5.3939660065225326,
+    "verify_ms": 5.347979997168295,
     "weight_profile": "local_business"
   },
   {
@@ -878,7 +878,7 @@
     "row_count": 16,
     "segment": "broad",
     "user": "user://broad-2",
-    "verify_ms": 5.727980998926796,
+    "verify_ms": 5.522118000953924,
     "weight_profile": "broad_reach"
   },
   {
@@ -892,7 +892,7 @@
     "row_count": 14,
     "segment": "broad",
     "user": "user://broad-2",
-    "verify_ms": 5.406596996181179,
+    "verify_ms": 5.452033998153638,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -906,7 +906,7 @@
     "row_count": 12,
     "segment": "broad",
     "user": "user://broad-2",
-    "verify_ms": 5.442168003355619,
+    "verify_ms": 5.208905000472441,
     "weight_profile": "consent_gated"
   },
   {
@@ -920,7 +920,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-3",
-    "verify_ms": 5.427210002380889,
+    "verify_ms": 5.610166997939814,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -934,7 +934,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-3",
-    "verify_ms": 5.464480003865901,
+    "verify_ms": 5.294728995067999,
     "weight_profile": "local_business"
   },
   {
@@ -948,7 +948,7 @@
     "row_count": 16,
     "segment": "broad",
     "user": "user://broad-3",
-    "verify_ms": 5.579566000960767,
+    "verify_ms": 5.578531003266107,
     "weight_profile": "broad_reach"
   },
   {
@@ -962,7 +962,7 @@
     "row_count": 14,
     "segment": "broad",
     "user": "user://broad-3",
-    "verify_ms": 5.828428998938762,
+    "verify_ms": 5.453682999359444,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -976,7 +976,7 @@
     "row_count": 12,
     "segment": "broad",
     "user": "user://broad-3",
-    "verify_ms": 5.240637001406867,
+    "verify_ms": 5.337818001862615,
     "weight_profile": "consent_gated"
   },
   {
@@ -990,7 +990,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-4",
-    "verify_ms": 5.408142998930998,
+    "verify_ms": 5.407363998529036,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -1004,7 +1004,7 @@
     "row_count": 13,
     "segment": "broad",
     "user": "user://broad-4",
-    "verify_ms": 5.9873200007132255,
+    "verify_ms": 5.348687001969665,
     "weight_profile": "local_business"
   },
   {
@@ -1018,7 +1018,7 @@
     "row_count": 16,
     "segment": "broad",
     "user": "user://broad-4",
-    "verify_ms": 5.650487000821158,
+    "verify_ms": 5.5645350003032945,
     "weight_profile": "broad_reach"
   },
   {
@@ -1032,7 +1032,7 @@
     "row_count": 14,
     "segment": "broad",
     "user": "user://broad-4",
-    "verify_ms": 5.49489999684738,
+    "verify_ms": 5.571408000832889,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -1046,7 +1046,7 @@
     "row_count": 12,
     "segment": "broad",
     "user": "user://broad-4",
-    "verify_ms": 5.306279999786057,
+    "verify_ms": 5.416765998234041,
     "weight_profile": "consent_gated"
   },
   {
@@ -1062,7 +1062,7 @@
     "row_count": 0,
     "segment": "restricted",
     "user": "user://restricted-0",
-    "verify_ms": 0.0054159972933121026,
+    "verify_ms": 0.0053249968914315104,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -1076,7 +1076,7 @@
     "row_count": 13,
     "segment": "restricted",
     "user": "user://restricted-0",
-    "verify_ms": 5.344555000192486,
+    "verify_ms": 5.384495001635514,
     "weight_profile": "local_business"
   },
   {
@@ -1090,7 +1090,7 @@
     "row_count": 16,
     "segment": "restricted",
     "user": "user://restricted-0",
-    "verify_ms": 5.636739006149583,
+    "verify_ms": 6.467598999734037,
     "weight_profile": "broad_reach"
   },
   {
@@ -1104,7 +1104,7 @@
     "row_count": 14,
     "segment": "restricted",
     "user": "user://restricted-0",
-    "verify_ms": 5.453652003780007,
+    "verify_ms": 5.562769001699053,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -1121,7 +1121,7 @@
     "row_count": 0,
     "segment": "restricted",
     "user": "user://restricted-0",
-    "verify_ms": 0.005189998773857951,
+    "verify_ms": 0.005285997758619487,
     "weight_profile": "consent_gated"
   },
   {
@@ -1135,7 +1135,7 @@
     "row_count": 13,
     "segment": "restricted",
     "user": "user://restricted-1",
-    "verify_ms": 5.465439004183281,
+    "verify_ms": 5.33623099909164,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -1149,7 +1149,7 @@
     "row_count": 13,
     "segment": "restricted",
     "user": "user://restricted-1",
-    "verify_ms": 5.590747001406271,
+    "verify_ms": 5.351602005248424,
     "weight_profile": "local_business"
   },
   {
@@ -1163,7 +1163,7 @@
     "row_count": 16,
     "segment": "restricted",
     "user": "user://restricted-1",
-    "verify_ms": 5.961492999631446,
+    "verify_ms": 5.887251994863618,
     "weight_profile": "broad_reach"
   },
   {
@@ -1177,7 +1177,7 @@
     "row_count": 14,
     "segment": "restricted",
     "user": "user://restricted-1",
-    "verify_ms": 5.4861310054548085,
+    "verify_ms": 5.428193006082438,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -1193,7 +1193,7 @@
     "row_count": 0,
     "segment": "restricted",
     "user": "user://restricted-1",
-    "verify_ms": 0.006048001523595303,
+    "verify_ms": 0.0053199983085505664,
     "weight_profile": "consent_gated"
   },
   {
@@ -1207,7 +1207,7 @@
     "row_count": 13,
     "segment": "restricted",
     "user": "user://restricted-2",
-    "verify_ms": 5.4416839993791655,
+    "verify_ms": 5.656123998051044,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -1221,7 +1221,7 @@
     "row_count": 13,
     "segment": "restricted",
     "user": "user://restricted-2",
-    "verify_ms": 5.316317998222075,
+    "verify_ms": 5.3736609988845885,
     "weight_profile": "local_business"
   },
   {
@@ -1235,7 +1235,7 @@
     "row_count": 16,
     "segment": "restricted",
     "user": "user://restricted-2",
-    "verify_ms": 6.023688998539001,
+    "verify_ms": 5.624313998850994,
     "weight_profile": "broad_reach"
   },
   {
@@ -1249,7 +1249,7 @@
     "row_count": 14,
     "segment": "restricted",
     "user": "user://restricted-2",
-    "verify_ms": 5.785925997770391,
+    "verify_ms": 5.5078779987525195,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -1265,7 +1265,7 @@
     "row_count": 0,
     "segment": "restricted",
     "user": "user://restricted-2",
-    "verify_ms": 0.006575995939783752,
+    "verify_ms": 0.004007997631561011,
     "weight_profile": "consent_gated"
   },
   {
@@ -1279,7 +1279,7 @@
     "row_count": 13,
     "segment": "restricted",
     "user": "user://restricted-3",
-    "verify_ms": 5.87594499666011,
+    "verify_ms": 5.399166002462152,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -1293,7 +1293,7 @@
     "row_count": 13,
     "segment": "restricted",
     "user": "user://restricted-3",
-    "verify_ms": 5.687035998562351,
+    "verify_ms": 5.5999910036916845,
     "weight_profile": "local_business"
   },
   {
@@ -1307,7 +1307,7 @@
     "row_count": 16,
     "segment": "restricted",
     "user": "user://restricted-3",
-    "verify_ms": 5.5861989967525005,
+    "verify_ms": 5.582570003753062,
     "weight_profile": "broad_reach"
   },
   {
@@ -1321,7 +1321,7 @@
     "row_count": 14,
     "segment": "restricted",
     "user": "user://restricted-3",
-    "verify_ms": 6.188568004290573,
+    "verify_ms": 5.408826000348199,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -1335,7 +1335,7 @@
     "row_count": 12,
     "segment": "restricted",
     "user": "user://restricted-3",
-    "verify_ms": 5.288947999360971,
+    "verify_ms": 5.253575996903237,
     "weight_profile": "consent_gated"
   },
   {
@@ -1351,7 +1351,7 @@
     "row_count": 0,
     "segment": "restricted",
     "user": "user://restricted-4",
-    "verify_ms": 0.004031993739772588,
+    "verify_ms": 0.004069006536155939,
     "weight_profile": "luxury_targeting"
   },
   {
@@ -1365,7 +1365,7 @@
     "row_count": 13,
     "segment": "restricted",
     "user": "user://restricted-4",
-    "verify_ms": 5.498095997609198,
+    "verify_ms": 5.400640002335422,
     "weight_profile": "local_business"
   },
   {
@@ -1379,7 +1379,7 @@
     "row_count": 16,
     "segment": "restricted",
     "user": "user://restricted-4",
-    "verify_ms": 5.583452999417204,
+    "verify_ms": 5.604174002655782,
     "weight_profile": "broad_reach"
   },
   {
@@ -1393,7 +1393,7 @@
     "row_count": 14,
     "segment": "restricted",
     "user": "user://restricted-4",
-    "verify_ms": 5.468687006214168,
+    "verify_ms": 5.411079000623431,
     "weight_profile": "behavioral_retarget"
   },
   {
@@ -1410,7 +1410,7 @@
     "row_count": 0,
     "segment": "restricted",
     "user": "user://restricted-4",
-    "verify_ms": 0.004809997335541993,
+    "verify_ms": 0.004064000677317381,
     "weight_profile": "consent_gated"
   }
 ]

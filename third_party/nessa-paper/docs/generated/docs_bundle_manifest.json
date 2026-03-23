@@ -16,8 +16,8 @@
       "reach_summary": "asc_ad_reach_summary.json",
       "test_metadata": "asc_ad_test_metadata.json"
     },
-    "benchmark_enabled": false,
-    "deterministic": false,
+    "benchmark_enabled": true,
+    "deterministic": true,
     "files_generated": [
       "asc_ad_artifact_manifest.json",
       "asc_ad_dataset_users.json",
@@ -35,8 +35,8 @@
       "asc_ad_report.json"
     ],
     "record_counts": {
-      "benchmark_rows": 0,
-      "benchmark_validity": 0,
+      "benchmark_rows": 13,
+      "benchmark_validity": 13,
       "campaigns": 5,
       "dataset_users": 20,
       "focused_matrix": 100,
@@ -54,14 +54,14 @@
     },
     "version": "nessa-asc-ad-demo-v1"
   },
-  "benchmark_enabled": false,
+  "benchmark_enabled": true,
   "bundle": "nessa_docs_bundle_v1",
   "counts": {
     "actor_cache_actors": 5,
     "usecase_flow_summaries": 7,
     "usecase_material_schema_sections": 7
   },
-  "deterministic": false,
+  "deterministic": true,
   "docs_root": "docs",
   "generated_root": "docs/generated",
   "outputs": {

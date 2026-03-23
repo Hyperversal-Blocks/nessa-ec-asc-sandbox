@@ -15,8 +15,8 @@
     "reach_summary": "asc_ad_reach_summary.json",
     "test_metadata": "asc_ad_test_metadata.json"
   },
-  "benchmark_enabled": false,
-  "deterministic": false,
+  "benchmark_enabled": true,
+  "deterministic": true,
   "files_generated": [
     "asc_ad_artifact_manifest.json",
     "asc_ad_dataset_users.json",
@@ -34,8 +34,8 @@
     "asc_ad_report.json"
   ],
   "record_counts": {
-    "benchmark_rows": 0,
-    "benchmark_validity": 0,
+    "benchmark_rows": 13,
+    "benchmark_validity": 13,
     "campaigns": 5,
     "dataset_users": 20,
     "focused_matrix": 100,

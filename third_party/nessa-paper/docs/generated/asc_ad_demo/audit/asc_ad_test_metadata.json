@@ -9,8 +9,8 @@
     "engagement_level",
     "consent_flags"
   ],
-  "benchmark_enabled": false,
-  "deterministic": false,
+  "benchmark_enabled": true,
+  "deterministic": true,
   "encoding_id": "nessa_asc_ad_v1",
   "engine": "qFold-EC",
   "focused_campaign_count": 5,
