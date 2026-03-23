@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "run_counter": 0,
+  "actors": {
+    "alice": {
+      "display_name": "Alice (primary holder)",
+      "role": "holder",
+      "session_pk_label": "pk:alice/session/laptop-7",
+      "rp_id": "rp://payments.example",
+      "policy_flags": 3
+    },
+    "bob": {
+      "display_name": "Bob (verifier gateway)",
+      "role": "verifier",
+      "verifies_rp": "rp://payments.example"
+    },
+    "charlie": {
+      "display_name": "Charlie (delegated device)",
+      "role": "delegatee",
+      "child_pk_label": "pk:charlie/session/phone-2",
+      "scope_bits": 15,
+      "valid_from": 1,
+      "valid_until": 4000000000
+    },
+    "dana": {
+      "display_name": "Dana (credential issuer)",
+      "role": "issuer",
+      "credential_root_label": "cred-root:issuer-dana-v1",
+      "age_band": 25,
+      "region_code": 840,
+      "role_flags": 5,
+      "predicate_selector": 2
+    },
+    "eve": {
+      "display_name": "Eve (TLS / OAuth peer)",
+      "role": "tls_peer",
+      "sni_or_server_id": "svc.payments.example",
+      "transcript_label": "tls:hs:alice-to-payments",
+      "ephemeral_key_label": "ek:alice-handshake",
+      "client_binding_tag": "oauth:state-alice-001"
+    }
+  },
+  "history": []
+}

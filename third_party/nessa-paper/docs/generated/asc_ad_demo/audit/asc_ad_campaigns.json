@@ -1,0 +1,102 @@
+[
+  {
+    "campaign_id": "campaign://luxury-targeting",
+    "campaign_window": "window:2026-q1",
+    "min_age_band": 2,
+    "policy_id": "nessa_asc_ad_luxury_targeting_checksum_v1",
+    "pseudonym_scope": "per_verifier",
+    "required_consent_mask": 0,
+    "verifier_id": "verifier://ads-harvester",
+    "weight_profile": "luxury_targeting",
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      4,
+      3,
+      1
+    ]
+  },
+  {
+    "campaign_id": "campaign://local-business",
+    "campaign_window": "window:2026-q1",
+    "min_age_band": 0,
+    "policy_id": "nessa_asc_ad_local_business_checksum_v1",
+    "pseudonym_scope": "per_verifier",
+    "required_consent_mask": 0,
+    "verifier_id": "verifier://ads-harvester",
+    "weight_profile": "local_business",
+    "weight_vector": [
+      1,
+      3,
+      4,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "campaign_id": "campaign://broad-reach",
+    "campaign_window": "window:2026-q1",
+    "min_age_band": 0,
+    "policy_id": "nessa_asc_ad_broad_reach_checksum_v1",
+    "pseudonym_scope": "per_verifier",
+    "required_consent_mask": 0,
+    "verifier_id": "verifier://ads-harvester",
+    "weight_profile": "broad_reach",
+    "weight_vector": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "campaign_id": "campaign://behavioral-retarget",
+    "campaign_window": "window:2026-q1",
+    "min_age_band": 0,
+    "policy_id": "nessa_asc_ad_behavioral_retarget_checksum_v1",
+    "pseudonym_scope": "per_verifier",
+    "required_consent_mask": 0,
+    "verifier_id": "verifier://ads-harvester",
+    "weight_profile": "behavioral_retarget",
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      4,
+      1,
+      4,
+      1
+    ]
+  },
+  {
+    "campaign_id": "campaign://consent-gated",
+    "campaign_window": "window:2026-q1",
+    "min_age_band": 3,
+    "policy_id": "nessa_asc_ad_consent_gated_checksum_v1",
+    "pseudonym_scope": "per_verifier",
+    "required_consent_mask": 1,
+    "verifier_id": "verifier://ads-harvester",
+    "weight_profile": "consent_gated",
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5
+    ]
+  }
+]

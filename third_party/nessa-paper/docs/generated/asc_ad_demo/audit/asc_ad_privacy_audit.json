@@ -1,0 +1,16 @@
+{
+  "all_proofs_redacted": true,
+  "audit_entries": [
+    "redacted prover_identity",
+    "redacted raw_profile",
+    "redacted user_secret_digest",
+    "redacted user_summary.integrator_metadata.raw_profile",
+    "redacted user_summary.integrator_metadata.prover_identity"
+  ],
+  "proof_records_total": 100,
+  "redacted_fields": [
+    "prover_identity",
+    "raw_profile",
+    "user_secret_digest"
+  ]
+}

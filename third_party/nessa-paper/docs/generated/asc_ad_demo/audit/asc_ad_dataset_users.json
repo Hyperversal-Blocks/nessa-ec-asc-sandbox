@@ -1,0 +1,282 @@
+[
+  {
+    "metadata": {
+      "age_band": 8,
+      "browsing_segment": 3682784162,
+      "consent_flags": 15,
+      "device_class": 0,
+      "engagement_level": 80,
+      "income_bracket": 10,
+      "interest_code": 3576439805,
+      "location_tier": 2
+    },
+    "segment": "premium",
+    "user_label": "user://premium-0"
+  },
+  {
+    "metadata": {
+      "age_band": 9,
+      "browsing_segment": 2736804894,
+      "consent_flags": 15,
+      "device_class": 1,
+      "engagement_level": 81,
+      "income_bracket": 11,
+      "interest_code": 3493511741,
+      "location_tier": 3
+    },
+    "segment": "premium",
+    "user_label": "user://premium-1"
+  },
+  {
+    "metadata": {
+      "age_band": 10,
+      "browsing_segment": 1642769734,
+      "consent_flags": 15,
+      "device_class": 2,
+      "engagement_level": 82,
+      "income_bracket": 12,
+      "interest_code": 3366263355,
+      "location_tier": 2
+    },
+    "segment": "premium",
+    "user_label": "user://premium-2"
+  },
+  {
+    "metadata": {
+      "age_band": 11,
+      "browsing_segment": 405075505,
+      "consent_flags": 15,
+      "device_class": 3,
+      "engagement_level": 83,
+      "income_bracket": 13,
+      "interest_code": 284068784,
+      "location_tier": 3
+    },
+    "segment": "premium",
+    "user_label": "user://premium-3"
+  },
+  {
+    "metadata": {
+      "age_band": 8,
+      "browsing_segment": 1440589048,
+      "consent_flags": 15,
+      "device_class": 0,
+      "engagement_level": 84,
+      "income_bracket": 10,
+      "interest_code": 3958503847,
+      "location_tier": 2
+    },
+    "segment": "premium",
+    "user_label": "user://premium-4"
+  },
+  {
+    "metadata": {
+      "age_band": 4,
+      "browsing_segment": 224175583,
+      "consent_flags": 7,
+      "device_class": 0,
+      "engagement_level": 50,
+      "income_bracket": 5,
+      "interest_code": 1015125543,
+      "location_tier": 5
+    },
+    "segment": "local",
+    "user_label": "user://local-0"
+  },
+  {
+    "metadata": {
+      "age_band": 5,
+      "browsing_segment": 1562011597,
+      "consent_flags": 7,
+      "device_class": 1,
+      "engagement_level": 51,
+      "income_bracket": 6,
+      "interest_code": 1635564611,
+      "location_tier": 6
+    },
+    "segment": "local",
+    "user_label": "user://local-1"
+  },
+  {
+    "metadata": {
+      "age_band": 6,
+      "browsing_segment": 1776014729,
+      "consent_flags": 7,
+      "device_class": 2,
+      "engagement_level": 52,
+      "income_bracket": 7,
+      "interest_code": 294819639,
+      "location_tier": 5
+    },
+    "segment": "local",
+    "user_label": "user://local-2"
+  },
+  {
+    "metadata": {
+      "age_band": 7,
+      "browsing_segment": 2135219546,
+      "consent_flags": 7,
+      "device_class": 0,
+      "engagement_level": 53,
+      "income_bracket": 5,
+      "interest_code": 1862807673,
+      "location_tier": 6
+    },
+    "segment": "local",
+    "user_label": "user://local-3"
+  },
+  {
+    "metadata": {
+      "age_band": 8,
+      "browsing_segment": 1914270112,
+      "consent_flags": 7,
+      "device_class": 1,
+      "engagement_level": 54,
+      "income_bracket": 6,
+      "interest_code": 1209073995,
+      "location_tier": 5
+    },
+    "segment": "local",
+    "user_label": "user://local-4"
+  },
+  {
+    "metadata": {
+      "age_band": 3,
+      "browsing_segment": 1087844485,
+      "consent_flags": 3,
+      "device_class": 0,
+      "engagement_level": 30,
+      "income_bracket": 4,
+      "interest_code": 4219688092,
+      "location_tier": 2
+    },
+    "segment": "broad",
+    "user_label": "user://broad-0"
+  },
+  {
+    "metadata": {
+      "age_band": 4,
+      "browsing_segment": 303008366,
+      "consent_flags": 3,
+      "device_class": 1,
+      "engagement_level": 31,
+      "income_bracket": 5,
+      "interest_code": 1402582807,
+      "location_tier": 3
+    },
+    "segment": "broad",
+    "user_label": "user://broad-1"
+  },
+  {
+    "metadata": {
+      "age_band": 5,
+      "browsing_segment": 1922198425,
+      "consent_flags": 3,
+      "device_class": 2,
+      "engagement_level": 32,
+      "income_bracket": 6,
+      "interest_code": 3367622174,
+      "location_tier": 4
+    },
+    "segment": "broad",
+    "user_label": "user://broad-2"
+  },
+  {
+    "metadata": {
+      "age_band": 6,
+      "browsing_segment": 2050368189,
+      "consent_flags": 3,
+      "device_class": 3,
+      "engagement_level": 33,
+      "income_bracket": 7,
+      "interest_code": 2336567879,
+      "location_tier": 5
+    },
+    "segment": "broad",
+    "user_label": "user://broad-3"
+  },
+  {
+    "metadata": {
+      "age_band": 7,
+      "browsing_segment": 728889506,
+      "consent_flags": 3,
+      "device_class": 4,
+      "engagement_level": 34,
+      "income_bracket": 8,
+      "interest_code": 1750050086,
+      "location_tier": 2
+    },
+    "segment": "broad",
+    "user_label": "user://broad-4"
+  },
+  {
+    "metadata": {
+      "age_band": 1,
+      "browsing_segment": 97869773,
+      "consent_flags": 0,
+      "device_class": 0,
+      "engagement_level": 15,
+      "income_bracket": 2,
+      "interest_code": 1747053560,
+      "location_tier": 1
+    },
+    "segment": "restricted",
+    "user_label": "user://restricted-0"
+  },
+  {
+    "metadata": {
+      "age_band": 2,
+      "browsing_segment": 3436411002,
+      "consent_flags": 1,
+      "device_class": 1,
+      "engagement_level": 16,
+      "income_bracket": 3,
+      "interest_code": 668360264,
+      "location_tier": 2
+    },
+    "segment": "restricted",
+    "user_label": "user://restricted-1"
+  },
+  {
+    "metadata": {
+      "age_band": 3,
+      "browsing_segment": 764877406,
+      "consent_flags": 0,
+      "device_class": 2,
+      "engagement_level": 17,
+      "income_bracket": 4,
+      "interest_code": 2282664826,
+      "location_tier": 3
+    },
+    "segment": "restricted",
+    "user_label": "user://restricted-2"
+  },
+  {
+    "metadata": {
+      "age_band": 4,
+      "browsing_segment": 3086001316,
+      "consent_flags": 1,
+      "device_class": 0,
+      "engagement_level": 18,
+      "income_bracket": 2,
+      "interest_code": 573234948,
+      "location_tier": 1
+    },
+    "segment": "restricted",
+    "user_label": "user://restricted-3"
+  },
+  {
+    "metadata": {
+      "age_band": 1,
+      "browsing_segment": 2913856205,
+      "consent_flags": 0,
+      "device_class": 1,
+      "engagement_level": 19,
+      "income_bracket": 3,
+      "interest_code": 493954773,
+      "location_tier": 2
+    },
+    "segment": "restricted",
+    "user_label": "user://restricted-4"
+  }
+]

@@ -1,0 +1,2380 @@
+[
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "06e3600bada7080b7c25c21e2b0ddc75e370fb378ab383819da5bc507338e02c",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e5bf9e4a295467ed049f94a0b02679672d009f63cec48dce793f94cb4d360aa7",
+      "reason_codes": [],
+      "verify_ms": 5.600575001153629
+    },
+    "segment": "premium",
+    "user": "user://premium-0",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "6e86f739148d42f595330c32faf5fad95652e097467e010e633f9da43b3f75c2",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e5bf9e4a295467ed049f94a0b02679672d009f63cec48dce793f94cb4d360aa7",
+      "reason_codes": [],
+      "verify_ms": 6.119452002167236
+    },
+    "segment": "premium",
+    "user": "user://premium-0",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "be17b7e154e2b3aef452c23ccc6c9a042f93239407bf0ebd738fe7c445c9eceb",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e5bf9e4a295467ed049f94a0b02679672d009f63cec48dce793f94cb4d360aa7",
+      "reason_codes": [],
+      "verify_ms": 5.7251370017183945
+    },
+    "segment": "premium",
+    "user": "user://premium-0",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "5e2cb2e944ce3d48e717ef204985a938d88c8c0f3417591464f6619cf72b5fe5",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e5bf9e4a295467ed049f94a0b02679672d009f63cec48dce793f94cb4d360aa7",
+      "reason_codes": [],
+      "verify_ms": 5.474803001561668
+    },
+    "segment": "premium",
+    "user": "user://premium-0",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "5205f14e21baaebbb0567308e84faeca646de6b00c5f812c6fa26d7dadfcad43",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e5bf9e4a295467ed049f94a0b02679672d009f63cec48dce793f94cb4d360aa7",
+      "reason_codes": [],
+      "verify_ms": 5.646599005558528
+    },
+    "segment": "premium",
+    "user": "user://premium-0",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "0434f573c2790ecc32edc8dda5602300c50bdf43f1543b6d2a0aa72b92cc38f1",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "613f44436ddd9634ee9826c83f1881730b010b254e058635670106599ab9af78",
+      "reason_codes": [],
+      "verify_ms": 5.831490001583006
+    },
+    "segment": "premium",
+    "user": "user://premium-1",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "0a58417ad1298176eec61448ca41cddcb564c66e784f47f9213d3970cf088237",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "613f44436ddd9634ee9826c83f1881730b010b254e058635670106599ab9af78",
+      "reason_codes": [],
+      "verify_ms": 5.790219998743851
+    },
+    "segment": "premium",
+    "user": "user://premium-1",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "3232ab6774c8a37eb051ab04f9e4cb13e9d8745347de3b9669021f3dc9328ab4",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "613f44436ddd9634ee9826c83f1881730b010b254e058635670106599ab9af78",
+      "reason_codes": [],
+      "verify_ms": 5.729042997700162
+    },
+    "segment": "premium",
+    "user": "user://premium-1",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "752b8b4dae1b275f7565f7d4c59199e280112f4816b2bdbf9d3c71c2192e5287",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "613f44436ddd9634ee9826c83f1881730b010b254e058635670106599ab9af78",
+      "reason_codes": [],
+      "verify_ms": 5.591285000264179
+    },
+    "segment": "premium",
+    "user": "user://premium-1",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "5d658b911dbd974ef4ee15debb8b97361991ee96481a9e2285708daa39423780",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "613f44436ddd9634ee9826c83f1881730b010b254e058635670106599ab9af78",
+      "reason_codes": [],
+      "verify_ms": 5.336882997653447
+    },
+    "segment": "premium",
+    "user": "user://premium-1",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "1abcb487182697583fd639cc0437456430314630625534bf3994a3a048f9263c",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "df2152ed9e3a227d0f00c8e574583a2472385b4f9037fd63693f97d1c6f47578",
+      "reason_codes": [],
+      "verify_ms": 5.410211997514125
+    },
+    "segment": "premium",
+    "user": "user://premium-2",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "5d99637110a2ea4adfc67e98d6abe2fee64c48b4067e97fc8efb3f99b564ce2f",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "df2152ed9e3a227d0f00c8e574583a2472385b4f9037fd63693f97d1c6f47578",
+      "reason_codes": [],
+      "verify_ms": 5.551930000365246
+    },
+    "segment": "premium",
+    "user": "user://premium-2",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "7fce804ee1cb88bc569eac5aee3abafc97beb9d79912a6bc46db8d0f42785dcb",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "df2152ed9e3a227d0f00c8e574583a2472385b4f9037fd63693f97d1c6f47578",
+      "reason_codes": [],
+      "verify_ms": 5.543253995710984
+    },
+    "segment": "premium",
+    "user": "user://premium-2",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "5a7b1bb86c9b8af0b9ae678a7dc00461930870712a7608044f63d4c2b79dbd0a",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "df2152ed9e3a227d0f00c8e574583a2472385b4f9037fd63693f97d1c6f47578",
+      "reason_codes": [],
+      "verify_ms": 5.765438996604644
+    },
+    "segment": "premium",
+    "user": "user://premium-2",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "e50b9330b4d88a2b6baeb0f74443c6d70b8439ab5d0e7a51217897c68f943ff6",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "df2152ed9e3a227d0f00c8e574583a2472385b4f9037fd63693f97d1c6f47578",
+      "reason_codes": [],
+      "verify_ms": 5.314392998116091
+    },
+    "segment": "premium",
+    "user": "user://premium-2",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "8b3bf7ffca3673b85383d7ece94205c6d5deb2d6cd4ff665af62edb6070d1298",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "65d7fa5fe53a1204ae973dc992956b740cf0858a0971074bd72f0996a71d0741",
+      "reason_codes": [],
+      "verify_ms": 5.443729998660274
+    },
+    "segment": "premium",
+    "user": "user://premium-3",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "ddf76c636e291af350a28023e2ddc7ec16566e2aff0a989c656ab0ec849a73e1",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "65d7fa5fe53a1204ae973dc992956b740cf0858a0971074bd72f0996a71d0741",
+      "reason_codes": [],
+      "verify_ms": 5.337196998880245
+    },
+    "segment": "premium",
+    "user": "user://premium-3",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "b9a55ef99c29826672efa4792ba59d57bb0339df6e2109711cb84f674d94616a",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "65d7fa5fe53a1204ae973dc992956b740cf0858a0971074bd72f0996a71d0741",
+      "reason_codes": [],
+      "verify_ms": 6.122124003013596
+    },
+    "segment": "premium",
+    "user": "user://premium-3",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "4f29f0ccfaf29f904ef51614bb23b009b7699369262cc9576a18bff362405134",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "65d7fa5fe53a1204ae973dc992956b740cf0858a0971074bd72f0996a71d0741",
+      "reason_codes": [],
+      "verify_ms": 5.586544000834692
+    },
+    "segment": "premium",
+    "user": "user://premium-3",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "4ef2b33dd99e21d6f5ef9a9a7ccb2a5b5cc3b2eee759e1cb176e6763cfbd75b3",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "65d7fa5fe53a1204ae973dc992956b740cf0858a0971074bd72f0996a71d0741",
+      "reason_codes": [],
+      "verify_ms": 5.809322996356059
+    },
+    "segment": "premium",
+    "user": "user://premium-3",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "f79e20fca72eda81c16f9da7e9e5958f7efca2647536ebff1adaa2955d776200",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a5d945f872f6a51f881fc0b4d72ae7eaf7f0cc0cfa88eb9067faaa5cb126eb9d",
+      "reason_codes": [],
+      "verify_ms": 5.286393999995198
+    },
+    "segment": "premium",
+    "user": "user://premium-4",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "61cb970ea51dcca880a1d25263a955c44dd76a4d688f9cd46229bfcb6e715252",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a5d945f872f6a51f881fc0b4d72ae7eaf7f0cc0cfa88eb9067faaa5cb126eb9d",
+      "reason_codes": [],
+      "verify_ms": 5.2972859994042665
+    },
+    "segment": "premium",
+    "user": "user://premium-4",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "d4f7297c74848d57ddacc2503c8f2b4981753b922fbef85c6ca146b4f5ad3b65",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a5d945f872f6a51f881fc0b4d72ae7eaf7f0cc0cfa88eb9067faaa5cb126eb9d",
+      "reason_codes": [],
+      "verify_ms": 5.521184000826906
+    },
+    "segment": "premium",
+    "user": "user://premium-4",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "20da8918ed2a960ac38b73519b88d0c9d9ddce447b0f95ada4157814f1aa001b",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a5d945f872f6a51f881fc0b4d72ae7eaf7f0cc0cfa88eb9067faaa5cb126eb9d",
+      "reason_codes": [],
+      "verify_ms": 5.433266996988095
+    },
+    "segment": "premium",
+    "user": "user://premium-4",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "302a657b3419eaf7dfc141494ef5981d3d534ddf8470393f5c941f6ef014554e",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a5d945f872f6a51f881fc0b4d72ae7eaf7f0cc0cfa88eb9067faaa5cb126eb9d",
+      "reason_codes": [],
+      "verify_ms": 5.223754000326153
+    },
+    "segment": "premium",
+    "user": "user://premium-4",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "1aa95f9aba5cc8d08269c1cdcd887040603123c9afd661b7e2c493f61551a4fe",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "5d6b75f2494442c256075a9e09086beebc51501ed8882d66ad46b13b91df07ee",
+      "reason_codes": [],
+      "verify_ms": 5.315733003953937
+    },
+    "segment": "local",
+    "user": "user://local-0",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "899833395793d16b4982eb02d5680b9f8fc88c9b3fffea6abe2b8d17f37a1e00",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "5d6b75f2494442c256075a9e09086beebc51501ed8882d66ad46b13b91df07ee",
+      "reason_codes": [],
+      "verify_ms": 5.323892000888009
+    },
+    "segment": "local",
+    "user": "user://local-0",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "713eaa991080fc384b3bf05ec58eb0d556dd326a3a642b626fc14edf73bf237f",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "5d6b75f2494442c256075a9e09086beebc51501ed8882d66ad46b13b91df07ee",
+      "reason_codes": [],
+      "verify_ms": 5.51916199765401
+    },
+    "segment": "local",
+    "user": "user://local-0",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "f523fadcb83b012afffbfd94bf4cc8718b56e347740a0a1b2de352279a8e85eb",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "5d6b75f2494442c256075a9e09086beebc51501ed8882d66ad46b13b91df07ee",
+      "reason_codes": [],
+      "verify_ms": 5.432016005215701
+    },
+    "segment": "local",
+    "user": "user://local-0",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "f92b37c6ce4fb4237911edd085ca078401cff8d5f0fe08d1d2dc844f44070999",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "5d6b75f2494442c256075a9e09086beebc51501ed8882d66ad46b13b91df07ee",
+      "reason_codes": [],
+      "verify_ms": 5.240524005785119
+    },
+    "segment": "local",
+    "user": "user://local-0",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "e92a93fe28596ed509f7cf8d395ef1d6f215120aa7b2adeff4433664e1888f48",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "7572f8aeaa78e708ea1b1c91e040c0cc243cf84ee94f4bd3396fca500906245f",
+      "reason_codes": [],
+      "verify_ms": 5.706701995222829
+    },
+    "segment": "local",
+    "user": "user://local-1",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "dc121ed6e25dd38b29beefcbac5c5d3f636e097d2c5018f43eb38976d741afd7",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "7572f8aeaa78e708ea1b1c91e040c0cc243cf84ee94f4bd3396fca500906245f",
+      "reason_codes": [],
+      "verify_ms": 5.298924996168353
+    },
+    "segment": "local",
+    "user": "user://local-1",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "353339b1881fe5a55277eaf4b54c07c48a9c95b9a0f67934a97f4036f193dad0",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "7572f8aeaa78e708ea1b1c91e040c0cc243cf84ee94f4bd3396fca500906245f",
+      "reason_codes": [],
+      "verify_ms": 5.583498001215048
+    },
+    "segment": "local",
+    "user": "user://local-1",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "13810e0713307be9bed9191a27958b79a836fbe6a29f0a84d10896fdd7fa6d2f",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "7572f8aeaa78e708ea1b1c91e040c0cc243cf84ee94f4bd3396fca500906245f",
+      "reason_codes": [],
+      "verify_ms": 5.3719819989055395
+    },
+    "segment": "local",
+    "user": "user://local-1",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "c357bfea966bc77b4ef86d940c2265e02cf27d3f589ddbe481b73ff832448dcc",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "7572f8aeaa78e708ea1b1c91e040c0cc243cf84ee94f4bd3396fca500906245f",
+      "reason_codes": [],
+      "verify_ms": 5.243045001407154
+    },
+    "segment": "local",
+    "user": "user://local-1",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "2fec59cb0072fbce10e0b40f7496685ce780d09b5717f2dbd1f0f86b15a4d800",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a8a923861025d69c40eb0cb0e0d17491e3a2788fc6d951fc00bb07ddd58d41b9",
+      "reason_codes": [],
+      "verify_ms": 5.269942004815675
+    },
+    "segment": "local",
+    "user": "user://local-2",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "4d924ca35c31c99256b2b368bf28f6afcb48a202a65866560d487067e7465e11",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a8a923861025d69c40eb0cb0e0d17491e3a2788fc6d951fc00bb07ddd58d41b9",
+      "reason_codes": [],
+      "verify_ms": 5.404388997703791
+    },
+    "segment": "local",
+    "user": "user://local-2",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "2440932eda79f33818c9981fc76699f34b4d9b3bb7231263920eb156c286db72",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a8a923861025d69c40eb0cb0e0d17491e3a2788fc6d951fc00bb07ddd58d41b9",
+      "reason_codes": [],
+      "verify_ms": 6.115156000305433
+    },
+    "segment": "local",
+    "user": "user://local-2",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "966da0d14fa8b1c9399edcf032d90d447c0410aa684579c600d55548a7c6a33c",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a8a923861025d69c40eb0cb0e0d17491e3a2788fc6d951fc00bb07ddd58d41b9",
+      "reason_codes": [],
+      "verify_ms": 5.716316001780797
+    },
+    "segment": "local",
+    "user": "user://local-2",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "e580240bd5693fd5258525289529284d9d813f42721a545202a58ae238d27971",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "a8a923861025d69c40eb0cb0e0d17491e3a2788fc6d951fc00bb07ddd58d41b9",
+      "reason_codes": [],
+      "verify_ms": 5.813317002321128
+    },
+    "segment": "local",
+    "user": "user://local-2",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "f7db9f691ffe5044ebdb533e2463cf6289d0d9b5b8b8eed31ce4cea4ac69a6d7",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "38d1ba6e8eff7209557f644ae7ac115a2d20ed0be82e597938e6bdbeb77fb0e4",
+      "reason_codes": [],
+      "verify_ms": 5.40059099876089
+    },
+    "segment": "local",
+    "user": "user://local-3",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "23f3a2c64796a5faecdc5695f7d2cb829fec36ee9929694ce483b8c4448867cf",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "38d1ba6e8eff7209557f644ae7ac115a2d20ed0be82e597938e6bdbeb77fb0e4",
+      "reason_codes": [],
+      "verify_ms": 5.574194001383148
+    },
+    "segment": "local",
+    "user": "user://local-3",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "682f08507298c2dfb11952638275b45ee8e1c416742510fc5d1192cd968bc5c2",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "38d1ba6e8eff7209557f644ae7ac115a2d20ed0be82e597938e6bdbeb77fb0e4",
+      "reason_codes": [],
+      "verify_ms": 5.601354001555592
+    },
+    "segment": "local",
+    "user": "user://local-3",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "d5f9f3fb3e4d19cfad3fa70d08fb5da846786b3446eb744ce3dd11b8a1aab19e",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "38d1ba6e8eff7209557f644ae7ac115a2d20ed0be82e597938e6bdbeb77fb0e4",
+      "reason_codes": [],
+      "verify_ms": 5.831506998219993
+    },
+    "segment": "local",
+    "user": "user://local-3",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "6096dd8963bee18eda8ac1eebd1f3d6fc4d517dd74e2476df66b430c37a899ed",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "38d1ba6e8eff7209557f644ae7ac115a2d20ed0be82e597938e6bdbeb77fb0e4",
+      "reason_codes": [],
+      "verify_ms": 5.233104995568283
+    },
+    "segment": "local",
+    "user": "user://local-3",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "9831a686823c9c0b572230e351d5ec8f350da057707770ba1a746d4f56d384c1",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "2bfc3baaf4732ff69a049453c831b85cf2b6dc3f0f909effef85aa530120650c",
+      "reason_codes": [],
+      "verify_ms": 5.350240004190709
+    },
+    "segment": "local",
+    "user": "user://local-4",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "d51d517d4a687b48ce5630ae384ddcab411484cdb5fe723e8d9db0a8b5db3c90",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "2bfc3baaf4732ff69a049453c831b85cf2b6dc3f0f909effef85aa530120650c",
+      "reason_codes": [],
+      "verify_ms": 5.346453996025957
+    },
+    "segment": "local",
+    "user": "user://local-4",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "4cb4f3cf0fcecb50c31dd8b0234f9ee53d3571e6b9882ee22d4b34befc2461d1",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "2bfc3baaf4732ff69a049453c831b85cf2b6dc3f0f909effef85aa530120650c",
+      "reason_codes": [],
+      "verify_ms": 5.5768169986549765
+    },
+    "segment": "local",
+    "user": "user://local-4",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "6cd7d5880abc05fff593d98ecbf39cd0399ad1e7842deb3a93b8e15a63653288",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "2bfc3baaf4732ff69a049453c831b85cf2b6dc3f0f909effef85aa530120650c",
+      "reason_codes": [],
+      "verify_ms": 5.448625001008622
+    },
+    "segment": "local",
+    "user": "user://local-4",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "9ac51be08a6790a7415a5d0ec47a5789aaffcba5b19472247484b16e6ff0f16a",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "2bfc3baaf4732ff69a049453c831b85cf2b6dc3f0f909effef85aa530120650c",
+      "reason_codes": [],
+      "verify_ms": 5.2641479996964335
+    },
+    "segment": "local",
+    "user": "user://local-4",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "313ae125d35f90916326e8a5cc16b45659a959bf8cf925a70b7dcb75208aae6b",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "8718304c26afa1c98f6002fc41449a4e34c095c0dcb2f0f6f9f99fa155e1d988",
+      "reason_codes": [],
+      "verify_ms": 5.394159001298249
+    },
+    "segment": "broad",
+    "user": "user://broad-0",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "bfe237b418ac3bf75f83bb8a71f8eb6051d79575a0b420760e972659e6992007",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "8718304c26afa1c98f6002fc41449a4e34c095c0dcb2f0f6f9f99fa155e1d988",
+      "reason_codes": [],
+      "verify_ms": 5.452452001918573
+    },
+    "segment": "broad",
+    "user": "user://broad-0",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "9d7034c9dcfc15092e0497e9baf054fa804bcdfc5a7e5f882d5880413e7daa93",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "8718304c26afa1c98f6002fc41449a4e34c095c0dcb2f0f6f9f99fa155e1d988",
+      "reason_codes": [],
+      "verify_ms": 5.663728996296413
+    },
+    "segment": "broad",
+    "user": "user://broad-0",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "4bf2166fc0fb424764fdb0f0316194274f843ba41976ee81c0f5d093b79dd526",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "8718304c26afa1c98f6002fc41449a4e34c095c0dcb2f0f6f9f99fa155e1d988",
+      "reason_codes": [],
+      "verify_ms": 6.1039979991619475
+    },
+    "segment": "broad",
+    "user": "user://broad-0",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "c49d1ed56d1776a456aeea20a7e7031a125eb21381ec258a61b4fd5666347543",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "8718304c26afa1c98f6002fc41449a4e34c095c0dcb2f0f6f9f99fa155e1d988",
+      "reason_codes": [],
+      "verify_ms": 5.233208001300227
+    },
+    "segment": "broad",
+    "user": "user://broad-0",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "0e53c18449d826fa62305411d8f34ef5db4404865e0099e196e6ac80faa33c1a",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "71814830b840deebdf49185c101febd4e1121145aa096fb85ababdfcefd7528a",
+      "reason_codes": [],
+      "verify_ms": 5.401757996878587
+    },
+    "segment": "broad",
+    "user": "user://broad-1",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "416bd72aa304a576b760dd63935d9c68888dcf4f39b91d5e9d0ff8d1a337af0c",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "71814830b840deebdf49185c101febd4e1121145aa096fb85ababdfcefd7528a",
+      "reason_codes": [],
+      "verify_ms": 5.380747003073338
+    },
+    "segment": "broad",
+    "user": "user://broad-1",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "a0db0e38c316cad3b5d0675b35ca6a52bdd4c54fa87da35cb003037eac610050",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "71814830b840deebdf49185c101febd4e1121145aa096fb85ababdfcefd7528a",
+      "reason_codes": [],
+      "verify_ms": 5.854584000189789
+    },
+    "segment": "broad",
+    "user": "user://broad-1",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "00ae54fecec35169a216a30237aed1a9ceaf38d9c5085f61b4b51350bab620f7",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "71814830b840deebdf49185c101febd4e1121145aa096fb85ababdfcefd7528a",
+      "reason_codes": [],
+      "verify_ms": 5.5071070019039325
+    },
+    "segment": "broad",
+    "user": "user://broad-1",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "9cbc18aa04cde72ca404b01cb969a2eb927a4d36d2970bdfab2c725590bd2b54",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "71814830b840deebdf49185c101febd4e1121145aa096fb85ababdfcefd7528a",
+      "reason_codes": [],
+      "verify_ms": 5.332048000127543
+    },
+    "segment": "broad",
+    "user": "user://broad-1",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "e9027cd646f4098db550cc1b80a736337829ce225e70abd00e0c2371c560e14d",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "f1fb4f1d6a851aadc7e3b4b15d5e78b6db158992fef941dd4e45868aca046fa8",
+      "reason_codes": [],
+      "verify_ms": 6.220007999218069
+    },
+    "segment": "broad",
+    "user": "user://broad-2",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "196a0e4ae3c66946ee2aa785d9650522ff57528e953dadf9fb8776d1dc19f069",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "f1fb4f1d6a851aadc7e3b4b15d5e78b6db158992fef941dd4e45868aca046fa8",
+      "reason_codes": [],
+      "verify_ms": 5.3939660065225326
+    },
+    "segment": "broad",
+    "user": "user://broad-2",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "87395e075dc46a19b3fb70bdf0b7f6f3f77bda67e5667e74acd0e5e96d7f1571",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "f1fb4f1d6a851aadc7e3b4b15d5e78b6db158992fef941dd4e45868aca046fa8",
+      "reason_codes": [],
+      "verify_ms": 5.727980998926796
+    },
+    "segment": "broad",
+    "user": "user://broad-2",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "8e5811c129c810ed3de2d6a45d3c7af01d314a18a2885a10687cef2e27f05687",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "f1fb4f1d6a851aadc7e3b4b15d5e78b6db158992fef941dd4e45868aca046fa8",
+      "reason_codes": [],
+      "verify_ms": 5.406596996181179
+    },
+    "segment": "broad",
+    "user": "user://broad-2",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "c8200eb7eca61a8bab9dabd907436daa89c9359a67927255c251802a6385c751",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "f1fb4f1d6a851aadc7e3b4b15d5e78b6db158992fef941dd4e45868aca046fa8",
+      "reason_codes": [],
+      "verify_ms": 5.442168003355619
+    },
+    "segment": "broad",
+    "user": "user://broad-2",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "9ba720c5bd506f967a7b99792ac00eff20f9547e1fef769369a66a94a3d8b482",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e7165b61c91d0ca817b7c37653cf1ac991482adb17f6c632c492bbe898b536bc",
+      "reason_codes": [],
+      "verify_ms": 5.427210002380889
+    },
+    "segment": "broad",
+    "user": "user://broad-3",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "3956bc29924682a65f60dcba44dce492f40de906df45da78cd42ddb91ee1142f",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e7165b61c91d0ca817b7c37653cf1ac991482adb17f6c632c492bbe898b536bc",
+      "reason_codes": [],
+      "verify_ms": 5.464480003865901
+    },
+    "segment": "broad",
+    "user": "user://broad-3",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "441a6e241d19ea356e8b92fcabd2ad59a7d59d87539edfcc1fb0444591f2c413",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e7165b61c91d0ca817b7c37653cf1ac991482adb17f6c632c492bbe898b536bc",
+      "reason_codes": [],
+      "verify_ms": 5.579566000960767
+    },
+    "segment": "broad",
+    "user": "user://broad-3",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "04581f12af3363d0efd8aa80aa7bac367bb3c23e2c873885f27549f2848b9ee1",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e7165b61c91d0ca817b7c37653cf1ac991482adb17f6c632c492bbe898b536bc",
+      "reason_codes": [],
+      "verify_ms": 5.828428998938762
+    },
+    "segment": "broad",
+    "user": "user://broad-3",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "d9d20b6386d4502df8d673001410cd3c74e5b02d835b1b53569ffa71ff1ac398",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e7165b61c91d0ca817b7c37653cf1ac991482adb17f6c632c492bbe898b536bc",
+      "reason_codes": [],
+      "verify_ms": 5.240637001406867
+    },
+    "segment": "broad",
+    "user": "user://broad-3",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "b352387b0a728ea41aa79a634f3a6b309ebcff6753714301c3fcc2e6dfe28d0d",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "12dd192674aa6a7e5e4a4669f1fbeaebcacb3f6ce745764454f22840495bfd84",
+      "reason_codes": [],
+      "verify_ms": 5.408142998930998
+    },
+    "segment": "broad",
+    "user": "user://broad-4",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "1adafa10546577b5e61625fb5fea5a4ef2916a5d0b10fa97ec438d69702ff3d6",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "12dd192674aa6a7e5e4a4669f1fbeaebcacb3f6ce745764454f22840495bfd84",
+      "reason_codes": [],
+      "verify_ms": 5.9873200007132255
+    },
+    "segment": "broad",
+    "user": "user://broad-4",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "3da904b74851f78424311bca876a98125f3aa2f95ff2a714daab6bbd72534e6c",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "12dd192674aa6a7e5e4a4669f1fbeaebcacb3f6ce745764454f22840495bfd84",
+      "reason_codes": [],
+      "verify_ms": 5.650487000821158
+    },
+    "segment": "broad",
+    "user": "user://broad-4",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "71ce1e4e73a5571c4aea984cbe73a728dd10950f7a22b62348837ed753ff4d39",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "12dd192674aa6a7e5e4a4669f1fbeaebcacb3f6ce745764454f22840495bfd84",
+      "reason_codes": [],
+      "verify_ms": 5.49489999684738
+    },
+    "segment": "broad",
+    "user": "user://broad-4",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "781e169334c89efbc6b7a8a92da515cdf983ae990a137b51f9b21af5e3746ad9",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "12dd192674aa6a7e5e4a4669f1fbeaebcacb3f6ce745764454f22840495bfd84",
+      "reason_codes": [],
+      "verify_ms": 5.306279999786057
+    },
+    "segment": "broad",
+    "user": "user://broad-4",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": false,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {},
+      "eligibility_valid": false,
+      "nullifier": "712193939e4c4569ec4e33997f8370f21309c0c2a3b6ed9c3c9992fe6a5512d1",
+      "proof_size_bytes": 0,
+      "proof_valid": false,
+      "pseudonym": "d1e2470d1c85feeee676e09b847842d1a4181ffdfefd957cc87eceb0d8af22b4",
+      "reason_codes": [
+        "age_band_below_minimum"
+      ],
+      "verify_ms": 0.0054159972933121026
+    },
+    "segment": "restricted",
+    "user": "user://restricted-0",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "8509960d420c71117359e218825db8d685048e550f248eeb7a71b7797af16d72",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "d1e2470d1c85feeee676e09b847842d1a4181ffdfefd957cc87eceb0d8af22b4",
+      "reason_codes": [],
+      "verify_ms": 5.344555000192486
+    },
+    "segment": "restricted",
+    "user": "user://restricted-0",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "ed8d59c597a1b4d7ee36282374b05669520a56d2dd98c5b5d2e180b0310f95e8",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "d1e2470d1c85feeee676e09b847842d1a4181ffdfefd957cc87eceb0d8af22b4",
+      "reason_codes": [],
+      "verify_ms": 5.636739006149583
+    },
+    "segment": "restricted",
+    "user": "user://restricted-0",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "d493fb42966f02fb27d287dfc00a90266af4e843a12413ddb0e56bbf287d59d4",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "d1e2470d1c85feeee676e09b847842d1a4181ffdfefd957cc87eceb0d8af22b4",
+      "reason_codes": [],
+      "verify_ms": 5.453652003780007
+    },
+    "segment": "restricted",
+    "user": "user://restricted-0",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": false,
+      "campaign_id": "campaign://consent-gated",
+      "details": {},
+      "eligibility_valid": false,
+      "nullifier": "c29fa7fe41e04f90b7a8d31c8fb4476d573395627f862d5713acb47fcfc4debf",
+      "proof_size_bytes": 0,
+      "proof_valid": false,
+      "pseudonym": "d1e2470d1c85feeee676e09b847842d1a4181ffdfefd957cc87eceb0d8af22b4",
+      "reason_codes": [
+        "consent_mask_missing",
+        "age_band_below_minimum"
+      ],
+      "verify_ms": 0.005189998773857951
+    },
+    "segment": "restricted",
+    "user": "user://restricted-0",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "e091e6794fea5e3af5fbf1baeb24292955af6c206a04895153238656166c5815",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "191c9ed5515ce75fff8efe44ac8297d51931d262ffc6d09bd890f5b41d3faec9",
+      "reason_codes": [],
+      "verify_ms": 5.465439004183281
+    },
+    "segment": "restricted",
+    "user": "user://restricted-1",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "9fa2a5448366319948689b59faa37849c9cc2e733e9ec3497e361d5f3f92d876",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "191c9ed5515ce75fff8efe44ac8297d51931d262ffc6d09bd890f5b41d3faec9",
+      "reason_codes": [],
+      "verify_ms": 5.590747001406271
+    },
+    "segment": "restricted",
+    "user": "user://restricted-1",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "feee893b9bdadaae0ccf19229b2f2e028fff31bc5f360eaa3ed9218e92143b1c",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "191c9ed5515ce75fff8efe44ac8297d51931d262ffc6d09bd890f5b41d3faec9",
+      "reason_codes": [],
+      "verify_ms": 5.961492999631446
+    },
+    "segment": "restricted",
+    "user": "user://restricted-1",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "2c94b46adbff2633c5f9e68880d5a02dddaaffd4c27100af5ed0d862658922ab",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "191c9ed5515ce75fff8efe44ac8297d51931d262ffc6d09bd890f5b41d3faec9",
+      "reason_codes": [],
+      "verify_ms": 5.4861310054548085
+    },
+    "segment": "restricted",
+    "user": "user://restricted-1",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": false,
+      "campaign_id": "campaign://consent-gated",
+      "details": {},
+      "eligibility_valid": false,
+      "nullifier": "8bf2e692471fb303a01d71260afc613172e875eb214d184172907dd8f744206c",
+      "proof_size_bytes": 0,
+      "proof_valid": false,
+      "pseudonym": "191c9ed5515ce75fff8efe44ac8297d51931d262ffc6d09bd890f5b41d3faec9",
+      "reason_codes": [
+        "age_band_below_minimum"
+      ],
+      "verify_ms": 0.006048001523595303
+    },
+    "segment": "restricted",
+    "user": "user://restricted-1",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "139e2b99bb5b913de572ad3f33a63d43f9e1be7fbc313c1e777c9ae35852e112",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "cf62b56bd3d05f8b29998b1d6166047d8bebdbc8569e22ce8984876d3a8c9733",
+      "reason_codes": [],
+      "verify_ms": 5.4416839993791655
+    },
+    "segment": "restricted",
+    "user": "user://restricted-2",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "164765dab49c932c2280260dcf4c5bea4ea171db840a90c9ce5d6af5175eb1d8",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "cf62b56bd3d05f8b29998b1d6166047d8bebdbc8569e22ce8984876d3a8c9733",
+      "reason_codes": [],
+      "verify_ms": 5.316317998222075
+    },
+    "segment": "restricted",
+    "user": "user://restricted-2",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "3fdaa08592617236752a9c3e206856be3d0d8a32c2711b11000a8f0ba93ec9ba",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "cf62b56bd3d05f8b29998b1d6166047d8bebdbc8569e22ce8984876d3a8c9733",
+      "reason_codes": [],
+      "verify_ms": 6.023688998539001
+    },
+    "segment": "restricted",
+    "user": "user://restricted-2",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "f55f385f0b84730ea1b33d4cd03203a7bd9fcdb34e5323df7789e7490b007c7e",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "cf62b56bd3d05f8b29998b1d6166047d8bebdbc8569e22ce8984876d3a8c9733",
+      "reason_codes": [],
+      "verify_ms": 5.785925997770391
+    },
+    "segment": "restricted",
+    "user": "user://restricted-2",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": false,
+      "campaign_id": "campaign://consent-gated",
+      "details": {},
+      "eligibility_valid": false,
+      "nullifier": "483e8a5559322e503ceb819c902d87d714fc400e316c0fcecac8b6adc2126bf5",
+      "proof_size_bytes": 0,
+      "proof_valid": false,
+      "pseudonym": "cf62b56bd3d05f8b29998b1d6166047d8bebdbc8569e22ce8984876d3a8c9733",
+      "reason_codes": [
+        "consent_mask_missing"
+      ],
+      "verify_ms": 0.006575995939783752
+    },
+    "segment": "restricted",
+    "user": "user://restricted-2",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "aa0f23838570512cee0463a522fc173f4ff553b02c01c34c3fdd1171c27d5819",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "466b65b1c023c9115b0b78e8706e764ca8e247dc10899350a81923f3570fb340",
+      "reason_codes": [],
+      "verify_ms": 5.87594499666011
+    },
+    "segment": "restricted",
+    "user": "user://restricted-3",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "ab4abfeb94f5549b7c85a75c8ab4d88def799c2b1bb5fa2bcc02526e2c4104ac",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "466b65b1c023c9115b0b78e8706e764ca8e247dc10899350a81923f3570fb340",
+      "reason_codes": [],
+      "verify_ms": 5.687035998562351
+    },
+    "segment": "restricted",
+    "user": "user://restricted-3",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "915e378e0a8b0e1d2e13aa4e3768e976f4c296f671cea0604e732eea5e13dae1",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "466b65b1c023c9115b0b78e8706e764ca8e247dc10899350a81923f3570fb340",
+      "reason_codes": [],
+      "verify_ms": 5.5861989967525005
+    },
+    "segment": "restricted",
+    "user": "user://restricted-3",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "b3e12f0ea6ebbd7eafec6f6d51e6b9f86ef2eec980de68ce15277a96f03b489b",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "466b65b1c023c9115b0b78e8706e764ca8e247dc10899350a81923f3570fb340",
+      "reason_codes": [],
+      "verify_ms": 6.188568004290573
+    },
+    "segment": "restricted",
+    "user": "user://restricted-3",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://consent-gated",
+      "details": {
+        "N": 12,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "187acc1e19d0da24060a31591b01569bddbf9304e307cd8edbf5932dd2f26ddc",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "466b65b1c023c9115b0b78e8706e764ca8e247dc10899350a81923f3570fb340",
+      "reason_codes": [],
+      "verify_ms": 5.288947999360971
+    },
+    "segment": "restricted",
+    "user": "user://restricted-3",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "campaign": "campaign://luxury-targeting",
+    "receipt": {
+      "accepted": false,
+      "campaign_id": "campaign://luxury-targeting",
+      "details": {},
+      "eligibility_valid": false,
+      "nullifier": "cb3506b1e331af7210a16624ba34c02e35457292bde1ae67f78c698a0a725f12",
+      "proof_size_bytes": 0,
+      "proof_valid": false,
+      "pseudonym": "e7d99f581f2cea882c9934e5b562808a8f8f91e16c55deeb0fe163e44c58802b",
+      "reason_codes": [
+        "age_band_below_minimum"
+      ],
+      "verify_ms": 0.004031993739772588
+    },
+    "segment": "restricted",
+    "user": "user://restricted-4",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "campaign": "campaign://local-business",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://local-business",
+      "details": {
+        "N": 13,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "ff022082ac22d1718773fa2d9b3025d80db7b0507e6e6433e5fc605509006b9c",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e7d99f581f2cea882c9934e5b562808a8f8f91e16c55deeb0fe163e44c58802b",
+      "reason_codes": [],
+      "verify_ms": 5.498095997609198
+    },
+    "segment": "restricted",
+    "user": "user://restricted-4",
+    "weight_profile": "local_business"
+  },
+  {
+    "campaign": "campaign://broad-reach",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://broad-reach",
+      "details": {
+        "N": 16,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "cf67a92be6ed243291373c3560df5e675060dd32bf9ea97f3e38b96afff4c92a",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e7d99f581f2cea882c9934e5b562808a8f8f91e16c55deeb0fe163e44c58802b",
+      "reason_codes": [],
+      "verify_ms": 5.583452999417204
+    },
+    "segment": "restricted",
+    "user": "user://restricted-4",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "campaign": "campaign://behavioral-retarget",
+    "receipt": {
+      "accepted": true,
+      "campaign_id": "campaign://behavioral-retarget",
+      "details": {
+        "N": 14,
+        "checkpoint_count": 0,
+        "d": 9,
+        "proof_size_bytes": 1632,
+        "snapshot_kind": "unknown"
+      },
+      "eligibility_valid": true,
+      "nullifier": "e8c0af0b60032472a4162b16ebf9c108d72323fdcf1713e2595f51964c7e2000",
+      "proof_size_bytes": 1632,
+      "proof_valid": true,
+      "pseudonym": "e7d99f581f2cea882c9934e5b562808a8f8f91e16c55deeb0fe163e44c58802b",
+      "reason_codes": [],
+      "verify_ms": 5.468687006214168
+    },
+    "segment": "restricted",
+    "user": "user://restricted-4",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "campaign": "campaign://consent-gated",
+    "receipt": {
+      "accepted": false,
+      "campaign_id": "campaign://consent-gated",
+      "details": {},
+      "eligibility_valid": false,
+      "nullifier": "be8484e91327e7c8fbfe184a3758de31fc5abd7cf1e9cc14a4d47bc5a20c602e",
+      "proof_size_bytes": 0,
+      "proof_valid": false,
+      "pseudonym": "e7d99f581f2cea882c9934e5b562808a8f8f91e16c55deeb0fe163e44c58802b",
+      "reason_codes": [
+        "consent_mask_missing",
+        "age_band_below_minimum"
+      ],
+      "verify_ms": 0.004809997335541993
+    },
+    "segment": "restricted",
+    "user": "user://restricted-4",
+    "weight_profile": "consent_gated"
+  }
+]

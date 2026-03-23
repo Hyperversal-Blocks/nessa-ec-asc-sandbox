@@ -1,0 +1,1592 @@
+[
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-0",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-0",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-0",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-0",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-0",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-1",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-1",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-1",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-1",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-1",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-2",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-2",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-2",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-2",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-2",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-3",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-3",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-3",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-3",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-3",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-4",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-4",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-4",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-4",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "premium",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://premium-4",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-0",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-0",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-0",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-0",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-0",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-1",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-1",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-1",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-1",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-1",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-2",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-2",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-2",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-2",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-2",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-3",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-3",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-3",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-3",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-3",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-4",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-4",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-4",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-4",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "local",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://local-4",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-0",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-0",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-0",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-0",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-0",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-1",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-1",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-1",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-1",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-1",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-2",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-2",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-2",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-2",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-2",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-3",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-3",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-3",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-3",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-3",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-4",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-4",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-4",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-4",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "broad",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://broad-4",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": false,
+    "allowed": false,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {},
+    "one_line": "Eligibility denied before proof issuance.",
+    "reason_codes": [
+      "age_band_below_minimum"
+    ],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-0",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-0",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-0",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-0",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": false,
+    "allowed": false,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {},
+    "one_line": "Eligibility denied before proof issuance.",
+    "reason_codes": [
+      "consent_mask_missing",
+      "age_band_below_minimum"
+    ],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-0",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-1",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-1",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-1",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-1",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": false,
+    "allowed": false,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {},
+    "one_line": "Eligibility denied before proof issuance.",
+    "reason_codes": [
+      "age_band_below_minimum"
+    ],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-1",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-2",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-2",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-2",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-2",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": false,
+    "allowed": false,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {},
+    "one_line": "Eligibility denied before proof issuance.",
+    "reason_codes": [
+      "consent_mask_missing"
+    ],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-2",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {
+      "campaign_id": "campaign://luxury-targeting",
+      "row_count": 13,
+      "weight_profile": "luxury_targeting"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-3",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-3",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-3",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-3",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {
+      "campaign_id": "campaign://consent-gated",
+      "row_count": 12,
+      "weight_profile": "consent_gated"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-3",
+    "weight_profile": "consent_gated"
+  },
+  {
+    "accepted": false,
+    "allowed": false,
+    "campaign": "campaign://luxury-targeting",
+    "integrator_metadata": {},
+    "one_line": "Eligibility denied before proof issuance.",
+    "reason_codes": [
+      "age_band_below_minimum"
+    ],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-4",
+    "weight_profile": "luxury_targeting"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://local-business",
+    "integrator_metadata": {
+      "campaign_id": "campaign://local-business",
+      "row_count": 13,
+      "weight_profile": "local_business"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-4",
+    "weight_profile": "local_business"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://broad-reach",
+    "integrator_metadata": {
+      "campaign_id": "campaign://broad-reach",
+      "row_count": 16,
+      "weight_profile": "broad_reach"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-4",
+    "weight_profile": "broad_reach"
+  },
+  {
+    "accepted": true,
+    "allowed": true,
+    "campaign": "campaign://behavioral-retarget",
+    "integrator_metadata": {
+      "campaign_id": "campaign://behavioral-retarget",
+      "row_count": 14,
+      "weight_profile": "behavioral_retarget"
+    },
+    "one_line": "User proves campaign-bound metadata integrity without revealing identity.",
+    "reason_codes": [],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-4",
+    "weight_profile": "behavioral_retarget"
+  },
+  {
+    "accepted": false,
+    "allowed": false,
+    "campaign": "campaign://consent-gated",
+    "integrator_metadata": {},
+    "one_line": "Eligibility denied before proof issuance.",
+    "reason_codes": [
+      "consent_mask_missing",
+      "age_band_below_minimum"
+    ],
+    "segment": "restricted",
+    "title": "ASC ad metadata targeting proof",
+    "user": "user://restricted-4",
+    "weight_profile": "consent_gated"
+  }
+]

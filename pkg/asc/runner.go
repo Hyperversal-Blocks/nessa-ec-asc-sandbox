@@ -103,6 +103,7 @@ func resolvePythonRoot(explicit string) (string, error) {
 	if _, thisFile, _, ok := runtime.Caller(0); ok {
 		moduleRoot := filepath.Clean(filepath.Join(filepath.Dir(thisFile), "..", ".."))
 		candidates = append(candidates,
+			filepath.Join(moduleRoot, "third_party", "nessa-paper"),
 			filepath.Join(moduleRoot, "..", "..", "nessa-paper"),
 			filepath.Join(moduleRoot, "..", "nessa-paper"),
 		)
@@ -110,6 +111,7 @@ func resolvePythonRoot(explicit string) (string, error) {
 
 	if wd, err := os.Getwd(); err == nil {
 		candidates = append(candidates,
+			filepath.Join(wd, "third_party", "nessa-paper"),
 			filepath.Join(wd, "..", "..", "nessa-paper"),
 			filepath.Join(wd, "..", "nessa-paper"),
 			filepath.Join(wd, "nessa-paper"),

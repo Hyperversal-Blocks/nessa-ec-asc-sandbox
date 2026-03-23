@@ -1,0 +1,61 @@
+{
+  "acceptance_rate": 0.94,
+  "accepted": 94,
+  "campaign_summary": {
+    "campaign://behavioral-retarget": {
+      "accepted": 20,
+      "rejected": 0
+    },
+    "campaign://broad-reach": {
+      "accepted": 20,
+      "rejected": 0
+    },
+    "campaign://consent-gated": {
+      "accepted": 16,
+      "rejected": 4
+    },
+    "campaign://local-business": {
+      "accepted": 20,
+      "rejected": 0
+    },
+    "campaign://luxury-targeting": {
+      "accepted": 18,
+      "rejected": 2
+    }
+  },
+  "cross_campaign_rejection": {
+    "accepted": false,
+    "reason_codes": [
+      "campaign_id_mismatch",
+      "weight_profile_mismatch",
+      "request_context_mismatch",
+      "campaign_policy_mismatch"
+    ]
+  },
+  "expected_denials": 6,
+  "reason_counts": {
+    "age_band_below_minimum": 5,
+    "consent_mask_missing": 3
+  },
+  "rejected": 6,
+  "segment_summary": {
+    "broad": {
+      "accepted": 25,
+      "rejected": 0
+    },
+    "local": {
+      "accepted": 25,
+      "rejected": 0
+    },
+    "premium": {
+      "accepted": 25,
+      "rejected": 0
+    },
+    "restricted": {
+      "accepted": 19,
+      "rejected": 6
+    }
+  },
+  "total_checks": 100,
+  "unexpected_rejections": 0
+}

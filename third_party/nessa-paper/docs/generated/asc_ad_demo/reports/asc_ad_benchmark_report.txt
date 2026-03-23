@@ -1,0 +1,44 @@
+ASC Ad Metadata Demo Report
+===========================
+version=nessa-asc-ad-demo-v1
+deterministic=False
+benchmark_enabled=False
+
+Focused Correctness
+-------------------
+checks=100 accepted=94 rejected=6
+expected_denials=6 unexpected_rejections=0
+cross_campaign_rejection=PASS reasons=['campaign_id_mismatch', 'weight_profile_mismatch', 'request_context_mismatch', 'campaign_policy_mismatch']
+segment_summary={"broad": {"accepted": 25, "rejected": 0}, "local": {"accepted": 25, "rejected": 0}, "premium": {"accepted": 25, "rejected": 0}, "restricted": {"accepted": 19, "rejected": 6}}
+campaign_summary={"campaign://behavioral-retarget": {"accepted": 20, "rejected": 0}, "campaign://broad-reach": {"accepted": 20, "rejected": 0}, "campaign://consent-gated": {"accepted": 16, "rejected": 4}, "campaign://local-business": {"accepted": 20, "rejected": 0}, "campaign://luxury-targeting": {"accepted": 18, "rejected": 2}}
+redaction_audit=redacted prover_identity, redacted raw_profile, redacted user_secret_digest, redacted user_summary.integrator_metadata.raw_profile, redacted user_summary.integrator_metadata.prover_identity
+
+User x Campaign correctness matrix (OK/NO):
+  user | behavioral-retarget | broad-reach | consent-gated | local-business | luxury-targeting
+  broad-0 | OK | OK | OK | OK | OK
+  broad-1 | OK | OK | OK | OK | OK
+  broad-2 | OK | OK | OK | OK | OK
+  broad-3 | OK | OK | OK | OK | OK
+  broad-4 | OK | OK | OK | OK | OK
+  local-0 | OK | OK | OK | OK | OK
+  local-1 | OK | OK | OK | OK | OK
+  local-2 | OK | OK | OK | OK | OK
+  local-3 | OK | OK | OK | OK | OK
+  local-4 | OK | OK | OK | OK | OK
+  premium-0 | OK | OK | OK | OK | OK
+  premium-1 | OK | OK | OK | OK | OK
+  premium-2 | OK | OK | OK | OK | OK
+  premium-3 | OK | OK | OK | OK | OK
+  premium-4 | OK | OK | OK | OK | OK
+  restricted-0 | OK | OK | NO | OK | NO
+  restricted-1 | OK | OK | NO | OK | OK
+  restricted-2 | OK | OK | NO | OK | OK
+  restricted-3 | OK | OK | OK | OK | OK
+  restricted-4 | OK | OK | NO | OK | NO
+
+Notes
+-----
+- This demo proves metadata binding and transcript integrity, not full ad-policy predicates or issuer-backed truth of self-asserted metadata.
+- Nullifier checks are application-layer Sybil controls scoped to (user, verifier, campaign window).
+- Default pseudonym scope is per-verifier (supports capping/analytics but allows intra-verifier campaign linkability).
+- Use per-campaign-window pseudonyms for stronger unlinkability at the cost of weaker longitudinal analytics.

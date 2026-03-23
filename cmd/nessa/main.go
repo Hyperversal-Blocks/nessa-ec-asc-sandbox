@@ -6,7 +6,9 @@ import (
 	"flag"
 	"fmt"
 	"os"
+	"os/signal"
 	"strings"
+	"syscall"
 
 	"github.com/Hyperversal-Blocks/nessa-ec/nessa-go/pkg/asc"
 )
@@ -16,7 +18,6 @@ func main() {
 		usage(os.Stderr)
 		os.Exit(2)
 	}
-
 	switch os.Args[1] {
 	case "asc-e2e":
 		if err := runASCE2E(os.Args[2:]); err != nil {
@@ -25,6 +26,11 @@ func main() {
 		}
 	case "asc-user":
 		if err := runASCUser(os.Args[2:]); err != nil {
+			fmt.Fprintf(os.Stderr, "error: %v\n", err)
+			os.Exit(1)
+		}
+	case "asc-api":
+		if err := runASCAPI(os.Args[2:]); err != nil {
 			fmt.Fprintf(os.Stderr, "error: %v\n", err)
 			os.Exit(1)
 		}
@@ -37,16 +43,45 @@ func main() {
 	}
 }
 
+func runASCAPI(args []string) error {
+	fs := flag.NewFlagSet("asc-api", flag.ContinueOnError)
+	fs.SetOutput(os.Stderr)
+
+	addr := fs.String("addr", ":8090", "listen address")
+	pythonRoot := fs.String("python-root", "", "path to nessa-paper root containing app.py")
+	pythonBin := fs.String("python-bin", "", "python executable (default: NESSA_PYTHON_BIN or python3)")
+	artifactsDir := fs.String("artifacts-dir", "", "directory for API flow artifacts (default: <python-root>/docs/generated/asc_api_demo)")
+	metadataCacheSize := fs.Int("metadata-cache-size", 512, "in-memory metadata cache size")
+
+	if err := fs.Parse(args); err != nil {
+		return err
+	}
+
+	ctx, stop := signal.NotifyContext(context.Background(), syscall.SIGINT, syscall.SIGTERM)
+	defer stop()
+
+	fmt.Fprintf(os.Stdout, "starting ASC API server on %s\n", *addr)
+	return asc.ServeAPI(ctx, asc.APIServerOptions{
+		Addr:              *addr,
+		PythonRoot:        *pythonRoot,
+		PythonBinary:      *pythonBin,
+		ArtifactsDir:      *artifactsDir,
+		MetadataCacheSize: *metadataCacheSize,
+	})
+}
+
 func usage(out *os.File) {
 	fmt.Fprintln(out, "nessa-go")
 	fmt.Fprintln(out, "")
 	fmt.Fprintln(out, "Usage:")
 	fmt.Fprintln(out, "  nessa asc-e2e [flags]")
 	fmt.Fprintln(out, "  nessa asc-user [flags]")
+	fmt.Fprintln(out, "  nessa asc-api [flags]")
 	fmt.Fprintln(out, "")
 	fmt.Fprintln(out, "Commands:")
 	fmt.Fprintln(out, "  asc-e2e    Run ASC end-to-end flow via Python core")
 	fmt.Fprintln(out, "  asc-user   Run single-wallet/single-campaign prove+verify")
+	fmt.Fprintln(out, "  asc-api    Run chi HTTP API server for multi-user/multi-verifier flows")
 }
 
 func runASCE2E(args []string) error {

@@ -1,0 +1,44 @@
+{
+  "AttestationMaterial": {
+    "app_measurement_label": "App binary or version measurement label.",
+    "channel_transcript_label": "Channel / session transcript binding label.",
+    "firmware_id": "Firmware or build id string.",
+    "measurement_label": "Device measurement or PCR-pack label."
+  },
+  "CredentialMaterial": {
+    "age_band": "Encoded age bucket (not necessarily years).",
+    "credential_root_label": "Issuer credential Merkle root or stable id.",
+    "predicate_selector": "Which disclosure policy branch applies.",
+    "region_code": "Region or jurisdiction code as agreed with issuer.",
+    "role_flags": "Bitmask of roles."
+  },
+  "DelegationMaterial": {
+    "child_pk_label": "Child public key fingerprint or label.",
+    "parent_digest_label": "Digest or label anchoring the parent authority.",
+    "scope_bits": "Capability bitmask (32-bit).",
+    "valid_from": "Start of validity window (32-bit slot).",
+    "valid_until": "End of validity window (32-bit slot)."
+  },
+  "HandshakeBindingMaterial": {
+    "client_binding_tag": "OAuth state, DCAPI binding, or similar tag.",
+    "ephemeral_key_label": "Ephemeral key fingerprint for this session.",
+    "sni_or_server_id": "Server identity the user expects.",
+    "transcript_label": "Handshake transcript hash label (how you name the digest)."
+  },
+  "IVC": {
+    "cycle_tag": "Batch or epoch name binding every step in the chain.",
+    "step_roots": "Ordered Merkle roots or step labels, one event per entry."
+  },
+  "LoginSessionMaterial": {
+    "epoch": "Unix time or counter slot; must fit in 32 bits for this encoding.",
+    "policy_flags": "Small bitfield for MFA tier, step-up, etc. (32-bit).",
+    "rp_id": "Relying party / app id the user sees at login.",
+    "session_pk_label": "Fingerprint or label of the session public key (hash recommended)."
+  },
+  "RevocationMaterial": {
+    "accumulator_handle_label": "Digest of accumulator state or CRS handle.",
+    "epoch": "Revocation / epoch window.",
+    "nullifier_seed_label": "Label derived from holder secret material (not raw sk on wire).",
+    "use_counter": "Monotonic or capped usage count."
+  }
+}

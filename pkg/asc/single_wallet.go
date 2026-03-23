@@ -62,11 +62,19 @@ metadata = AdMetadataProfile(
     consent_flags=int(payload["metadata"]["consent_flags"]),
 )
 
-wallet = AdProverWallet.create(
-    payload["user_label"],
-    payload["device_label"],
-    deterministic_secret=bool(payload["deterministic_secret"]),
-)
+wallet_secret_hex = str(payload.get("wallet_secret_hex", ""))
+if wallet_secret_hex:
+    wallet = AdProverWallet(
+        payload["user_label"],
+        payload["device_label"],
+        bytes.fromhex(wallet_secret_hex),
+    )
+else:
+    wallet = AdProverWallet.create(
+        payload["user_label"],
+        payload["device_label"],
+        deterministic_secret=bool(payload["deterministic_secret"]),
+    )
 wallet.set_metadata(metadata)
 
 prove_kwargs = {"deterministic": bool(payload["deterministic"])}
@@ -120,6 +128,7 @@ type MetadataProfile struct {
 type SingleWalletVerifyOptions struct {
 	UserLabel       string
 	DeviceLabel     string
+	WalletSecretHex string
 	CampaignID      string
 	VerifierID      string
 	CampaignWindow  string
@@ -220,6 +229,7 @@ func buildSingleWalletRequest(opts SingleWalletVerifyOptions, pythonRoot string)
 		"python_root":           pythonRoot,
 		"user_label":            opts.UserLabel,
 		"device_label":          opts.DeviceLabel,
+		"wallet_secret_hex":     opts.WalletSecretHex,
 		"campaign_id":           opts.CampaignID,
 		"verifier_id":           opts.VerifierID,
 		"campaign_window":       opts.CampaignWindow,

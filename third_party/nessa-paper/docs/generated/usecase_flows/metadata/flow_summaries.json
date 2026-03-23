@@ -1,0 +1,290 @@
+[
+  {
+    "N": 1,
+    "app_style_ok": true,
+    "cons_ok": true,
+    "d": 9,
+    "encoding_id": "nessa_uc_login_v1",
+    "flow_key": "login",
+    "integrator_metadata": {
+      "coordinate_bit_lengths": [
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        64
+      ],
+      "linear_policy": "row-integrity only: sum(first_eight_u32) == ninth_u64_checksum",
+      "material_preview": {
+        "epoch": 1700000000,
+        "rp_id": "rp://payments",
+        "session_pk_label": "pk:demo-session"
+      },
+      "policy_id": "nessa_uc_login_binding_checksum_v1",
+      "user_visible_hints": [
+        "Proof binds to \u201crp://payments\u201d, the current session label, and the transcript context you supplied.",
+        "This demo does not prove the session is authenticated to the RP; your application must verify that externally."
+      ],
+      "verifier_semantics": "Binding demo only: row integrity checksum plus transcript binding for login-labeled material."
+    },
+    "link_ok": true,
+    "local_ok": true,
+    "one_line": "Bind a proof to this RP, this session key label, this epoch, and these policy flags; the demo proves row integrity plus transcript binding, not full login semantics.",
+    "policy_id": "nessa_uc_login_binding_checksum_v1",
+    "proof_size_bytes": 1632,
+    "reasons": [],
+    "scenario": "login",
+    "template_status": "Mechanics demo only \u2014 verifier must recompute request context and enforce login semantics externally.",
+    "title": "Login binding / packing demo (session)"
+  },
+  {
+    "N": 1,
+    "app_style_ok": true,
+    "cons_ok": true,
+    "d": 9,
+    "encoding_id": "nessa_uc_delegation_v1",
+    "flow_key": "delegation",
+    "integrator_metadata": {
+      "coordinate_bit_lengths": [
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        64
+      ],
+      "linear_policy": "row-integrity only: sum(first_eight_u32) == ninth_u64_checksum",
+      "material_preview": {
+        "child_pk_label": "pk:child-42",
+        "valid_from": 1,
+        "valid_until": 2000000000
+      },
+      "policy_id": "nessa_uc_delegation_binding_checksum_v1",
+      "user_visible_hints": [
+        "This demo binds the child label, scope bits, and validity window into the proof transcript.",
+        "It does not prove the delegation is valid; your application must verify parent authorization externally."
+      ],
+      "verifier_semantics": "Binding demo only: row integrity checksum plus transcript binding for delegation-labeled material."
+    },
+    "link_ok": true,
+    "local_ok": true,
+    "one_line": "Record child-key, scope, and validity labels in a binding proof; the demo proves packing integrity, not delegation validity.",
+    "policy_id": "nessa_uc_delegation_binding_checksum_v1",
+    "proof_size_bytes": 1632,
+    "reasons": [],
+    "scenario": "delegation",
+    "template_status": "Mechanics demo only \u2014 application must enforce delegation signatures, scope semantics, and validity windows externally.",
+    "title": "Delegation binding / packing demo (parent \u2192 child)"
+  },
+  {
+    "N": 1,
+    "app_style_ok": true,
+    "cons_ok": true,
+    "d": 9,
+    "encoding_id": "nessa_uc_credential_v1",
+    "flow_key": "credential",
+    "integrator_metadata": {
+      "coordinate_bit_lengths": [
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        64
+      ],
+      "linear_policy": "row-integrity only: sum(first_eight_u32) == ninth_u64_checksum",
+      "material_preview": {
+        "credential_root_label": "cred-root:issuer-9",
+        "predicate_selector": 1
+      },
+      "policy_id": "nessa_uc_credential_binding_checksum_v1",
+      "user_visible_hints": [
+        "The verifier only gets a binding proof over packed attribute labels; raw attributes may stay off the wire if you use bands.",
+        "This demo does not prove credential predicates such as \u201cage \u2265 18\u201d; your application must verify predicate meaning externally."
+      ],
+      "verifier_semantics": "Binding demo only: row integrity checksum plus transcript binding for credential-labeled material."
+    },
+    "link_ok": true,
+    "local_ok": true,
+    "one_line": "Commit attribute bands and a predicate selector plus a credential root label; the demo proves binding to packed labels, not credential predicates.",
+    "policy_id": "nessa_uc_credential_binding_checksum_v1",
+    "proof_size_bytes": 1632,
+    "reasons": [],
+    "scenario": "credential",
+    "template_status": "Mechanics demo only \u2014 application must enforce credential predicates externally.",
+    "title": "Selective credential binding / packing demo"
+  },
+  {
+    "N": 1,
+    "app_style_ok": true,
+    "cons_ok": true,
+    "d": 9,
+    "encoding_id": "nessa_uc_revocation_v1",
+    "flow_key": "revocation",
+    "integrator_metadata": {
+      "coordinate_bit_lengths": [
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        64
+      ],
+      "linear_policy": "row-integrity only: sum(first_eight_u32) == ninth_u64_checksum",
+      "material_preview": {
+        "epoch": 99,
+        "use_counter": 2
+      },
+      "policy_id": "nessa_uc_revocation_binding_checksum_v1",
+      "user_visible_hints": [
+        "Show remaining uses or epoch window in the UI only if your revocation service already checked them externally.",
+        "This demo binds revocation-related labels but does not itself prove non-revocation or counter freshness."
+      ],
+      "verifier_semantics": "Binding demo only: row integrity checksum plus transcript binding for revocation-labeled material."
+    },
+    "link_ok": true,
+    "local_ok": true,
+    "one_line": "Anchor nullifier-seed, counter, epoch, and accumulator-handle labels in a binding proof; the demo does not itself prove revocation state.",
+    "policy_id": "nessa_uc_revocation_binding_checksum_v1",
+    "proof_size_bytes": 1632,
+    "reasons": [],
+    "scenario": "revocation",
+    "template_status": "Mechanics demo only \u2014 application must enforce non-revocation, freshness, and counter policy externally.",
+    "title": "Revocation binding / packing demo"
+  },
+  {
+    "N": 1,
+    "app_style_ok": true,
+    "cons_ok": true,
+    "d": 9,
+    "encoding_id": "nessa_uc_attest_v1",
+    "flow_key": "attestation",
+    "integrator_metadata": {
+      "coordinate_bit_lengths": [
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        64
+      ],
+      "linear_policy": "row-integrity only: sum(first_eight_u32) == ninth_u64_checksum",
+      "material_preview": {
+        "channel_transcript_label": "ch:transcript-xyz",
+        "firmware_id": "fw:build-77"
+      },
+      "policy_id": "nessa_uc_attestation_binding_checksum_v1",
+      "user_visible_hints": [
+        "This demo binds measurement labels and channel context into the proof transcript.",
+        "Do not claim the proof established device trustworthiness unless your attestation service verified it externally."
+      ],
+      "verifier_semantics": "Binding demo only: row integrity checksum plus transcript binding for attestation-labeled material."
+    },
+    "link_ok": true,
+    "local_ok": true,
+    "one_line": "Bind proof to measurement labels, firmware, app binary, and channel transcript label; the demo proves binding, not device trustworthiness.",
+    "policy_id": "nessa_uc_attestation_binding_checksum_v1",
+    "proof_size_bytes": 1632,
+    "reasons": [],
+    "scenario": "attestation",
+    "template_status": "Mechanics demo only \u2014 application must validate attestation evidence and posture policy externally.",
+    "title": "Device attestation binding / packing demo"
+  },
+  {
+    "N": 1,
+    "app_style_ok": true,
+    "cons_ok": true,
+    "d": 9,
+    "encoding_id": "nessa_uc_tls_v1",
+    "flow_key": "handshake",
+    "integrator_metadata": {
+      "coordinate_bit_lengths": [
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        64
+      ],
+      "linear_policy": "row-integrity only: sum(first_eight_u32) == ninth_u64_checksum",
+      "material_preview": {
+        "server": "svc.example.com"
+      },
+      "policy_id": "nessa_uc_handshake_binding_checksum_v1",
+      "user_visible_hints": [
+        "Proof is bound to server label \u201csvc.example.com\u201d and your OAuth/TLS context labels.",
+        "This demo does not prove server identity or certificate validity; your application must verify those externally."
+      ],
+      "verifier_semantics": "Binding demo only: row integrity checksum plus transcript binding for handshake-labeled material."
+    },
+    "link_ok": true,
+    "local_ok": true,
+    "one_line": "Tie a proof to a handshake transcript label, server id, ephemeral key label, and client binding tag; the demo proves binding, not server authentication.",
+    "policy_id": "nessa_uc_handshake_binding_checksum_v1",
+    "proof_size_bytes": 1632,
+    "reasons": [],
+    "scenario": "handshake",
+    "template_status": "Mechanics demo only \u2014 application must validate TLS/OAuth semantics externally.",
+    "title": "TLS / OAuth handshake binding demo"
+  },
+  {
+    "N": 3,
+    "app_style_ok": true,
+    "cons_ok": true,
+    "d": 9,
+    "encoding_id": "nessa_uc_ivc_v1",
+    "flow_key": "ivc",
+    "integrator_metadata": {
+      "coordinate_bit_lengths": [
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        64
+      ],
+      "linear_policy": "row-integrity only: sum(first_eight_u32) == ninth_u64_checksum",
+      "material_preview": {
+        "cycle_tag": "batch-1",
+        "steps": 3
+      },
+      "policy_id": "nessa_uc_ivc_binding_checksum_v1",
+      "user_visible_hints": [
+        "This bundle folds 3 packed step labels into one verifier check.",
+        "This demo does not prove the steps form a valid recursive computation; your application must verify step semantics externally."
+      ],
+      "verifier_semantics": "Binding demo only: per-row integrity checksum plus transcript binding for folded step labels."
+    },
+    "link_ok": true,
+    "local_ok": true,
+    "one_line": "Multiple events (one per step root label) fold into one C\u22c6 under a per-row checksum relation; the demo proves row integrity plus transcript binding, not recursive step semantics.",
+    "policy_id": "nessa_uc_ivc_binding_checksum_v1",
+    "proof_size_bytes": 1632,
+    "reasons": [],
+    "scenario": "ivc",
+    "template_status": "Mechanics demo only \u2014 this is multi-event folding, not recursive proof verification.",
+    "title": "IVC-style step-chain binding demo"
+  }
+]
